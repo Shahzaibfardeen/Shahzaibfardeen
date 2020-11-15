@@ -2,7 +2,7 @@
 
 <!--
 
-*Yaseen549/Yaseen549* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Shahzaibfardeen/shahzaibfardeen* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Programmer, I can also do Game Designing and Development, you can also check my profile links for more that are given below.
+I am Shahzaib Fardeen, Welcome to my GitHub Repository, I'm a Full Stack Web Developer, Programmer, I can also Design & Develope Mobile Android Application, You can also check my Profile Links for more that are given below.
 
 
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yasen549" alt="Yaseen549" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahzaibfardeen" alt="Shahzaib Fardeen" /> </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)
 
@@ -70,6 +70,7 @@ I am Yaseen, welcome to my GitHub Repository, I'm a Android & iOS Developer, Pro
 ![Eclipse](https://img.shields.io/badge/-Eclipse-430098?style=for-the-badge&logo=Eclipse)
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
 
+<!--
 ### Being
 
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif) -->
