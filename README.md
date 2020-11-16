@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-<!--
-
-*Shahzaibfardeen/shahzaibfardeen* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Python...
-- 🌱 I’m currently learning Flutter...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I am Shahzaib Fardeen, Welcome to my GitHub Repository, I'm a Full Stack Web Developer, Programmer, I can also Design & Develope Mobile Android Application, You can also check my Profile Links for more that are given below.
 
 
@@ -23,16 +7,16 @@ I am Shahzaib Fardeen, Welcome to my GitHub Repository, I'm a Full Stack Web Dev
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahzaibfardeen" alt="Shahzaib Fardeen" /> </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Yaseen549)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shahzaibfardeen)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen549&hide=TeX&layout=compact&count_private=true)
 
 
 ### Connect with me on - 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yaseen59/) 
-[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:fantasticyaseenshariff@gmail.com)
-[<img src ="https://img.shields.io/badge/My_Website-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white">](https://yaseen.netlify.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shahzaib-fardeen/) 
+[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:s4shahzaib73@gmail.com)
+[<img src ="https://img.shields.io/badge/My_Website-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white">](https://syberstar.com/)
 
 
 ### Frameworks and Stack
@@ -68,9 +52,4 @@ I am Shahzaib Fardeen, Welcome to my GitHub Repository, I'm a Full Stack Web Dev
 ![Firebase](https://img.shields.io/badge/-Firebase-181717?style=for-the-badge&logo=firebase)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-430098?style=for-the-badge&logo=Eclipse)
-![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
-
-<!--
-### Being
-
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif) -->
+![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android) 
