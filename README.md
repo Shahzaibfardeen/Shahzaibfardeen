@@ -26,8 +26,10 @@ I Can Also Design & Develope Mobile & Web Games, You Can Also Check My Profile L
 
 
 <!-- Coder Image & Profile Visit Tags -->
-		<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
-      		<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahzaibFardeen" alt="ShahzaibFardeen" /> </p>
+		
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahzaibfardeen" alt="Shahzaib Fardeen" /> </p>
+
 
 <!-- Git Status & Most Language Used Tables -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ShahzaibFardeen)
