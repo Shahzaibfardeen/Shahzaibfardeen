@@ -1,24 +1,18 @@
-### Hi there 👋
+### Hi Developers 👋 <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
-<img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
+**Here Are Some Of The Ideas To Get You Started:**
 
-**ShahzaibFardeen/ShahzaibFardeen** Is A ✨ _Special_ ✨ Repository Because It's `README.md` (This File) Appears On Your GitHub Profile.
-
-Here Are Some Of The Ideas To Get You Started:
-
-- 🔭 I’m Currently Working On Full Stack Web Developer.
-- 🌱 I’m Currently Learning React & Redux.
-- 👯 I’m Looking to Collaborate On Any Organization.
-- 🤔 I’m Looking For Help With The Beginner Level Developer As Well.
+- 🔭 I’m Currently Working On `Full Stack Web Developer.`
+- 🌱 I’m Currently Learning `React & Redux.`
+- 👯 I’m Looking to Collaborate On `Any Organization.`
+- 🤔 I’m Looking For Help With The `Beginner Level Developer` As Well.
 - 💬 Ask Me About Anything.
 - 📫 How To Reach Me: Mail Me : @ S4shahzaib73@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun Fact: ...
 
 
 <!-- A Small Brief About Me -->
-I Am Shahzaib Fardeen, Welcome To My GitHub Repository.
-Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | Project Manager & Web Developer @ SyberStar.
+I Am Shahzaib Fardeen, Welcome To My GitHub Repository. <br>
+Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | Project Manager & Web Developer @ SyberStar. <br>
 I Can Also Design & Develope Mobile & Web Games, You Can Also Check My Profile Links For More That Are Given Below.
 
 
