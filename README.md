@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
 **ShahzaibFardeen/ShahzaibFardeen** Is A ✨ _Special_ ✨ Repository Because It's `README.md` (This File) Appears On Your GitHub Profile.
@@ -17,7 +15,6 @@ Here Are Some Of The Ideas To Get You Started:
 - 😄 Pronouns: ...
 - ⚡ Fun Fact: ...
 
--->
 
 <!-- A Small Brief About Me -->
 I Am Shahzaib Fardeen, Welcome To My GitHub Repository.
