@@ -1,4 +1,5 @@
-### Hi Developers 👋 <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
+### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers 
+<img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
 **Here Are Some Of The Ideas To Get You Started:**
 
@@ -12,8 +13,9 @@
 
 <!-- A Small Brief About Me -->
 I Am Shahzaib Fardeen, Welcome To My GitHub Repository. <br>
-Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | Project Manager & Web Developer @ SyberStar. <br>
-I Can Also Design & Develope Mobile & Web Games, You Can Also Check My Profile Links For More That Are Given Below.
+Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | <br>
+Project Manager & Web Developer @ SyberStar.I Can Also Design & Develope Mobile & Web Games, <br>
+You Can Also Check My Profile Links For More That Are Given Below.
 
 
 <!-- Coder Image & Profile Visit Tags -->
