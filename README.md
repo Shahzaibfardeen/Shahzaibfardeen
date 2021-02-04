@@ -4,8 +4,8 @@
 
 - 🔭 I’m Currently Working On `Full Stack Web Developer.`
 - 🌱 I’m Currently Learning `React & Redux.`
-- 👯 I’m Looking to Collaborate On `Any Organization.`
-- 🤔 I’m Looking For Help With The `Beginner Level Developer` As Well.
+- 👯 I’m Looking to Collaborate On `Any Organization OR Teams.`
+- 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization.
 - 💬 Ask Me About : Anything Related To `Design & Develope`
 - 📫 How To Reach Me: Mail Me : @ S4shahzaib73@gmail.com
 	
@@ -15,7 +15,7 @@
 <!-- A Small Brief About Me -->
 I Am <b> Shahzaib Fardeen, </b> Welcome To My GitHub Repository. <br>
 Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | <br>
-Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games <br>
+Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. <br>
 
 
 <!-- Coder Image & Profile Visit Tags -->
@@ -122,13 +122,12 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 ![Firebase](https://img.shields.io/badge/-Firebase-181717?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-blue?style=for-the-badge&logo=Vercel)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-430098?style=for-the-badge&logo=Eclipse)
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
-
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
 
 <table>
 	<tr>
@@ -136,20 +135,10 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 			<h2> Being </h2>
 		</td>
 	<td>
-	      		<img src="https://media.giphy.com/media/i0EYHNbxPMeSWznjSH/giphy.gif" alt="Coder GIF" width="150" height="100"><img src="https://media.giphy.com/media/fkTFkvYVz5dmg/giphy.gif" alt="Coder GIF" width="100" height="100">
+	      	<img src="https://media.giphy.com/media/i0EYHNbxPMeSWznjSH/giphy.gif" alt="Coder GIF" width="150" height="100"><img src="https://media.giphy.com/media/fkTFkvYVz5dmg/giphy.gif" alt="Coder GIF" width="100" height="100">
 	</td>
 	</tr>
 </table>
 
-<!-- Check & Delete -->
-
- <img src="https://media.giphy.com/media/2WUkAVDzuQbUA/giphy.gif" alt="Coder GIF" width="150" height="100"> 
-
-Social Engagement
-### Twitter
-[<img src="https://img.shields.io/twitter/follow/yaseen_sheriff?label=Follow&style=social" />](https://twitter.com/yaseen_sheriff) 
-
-### YouTube
-[<img src="https://img.shields.io/youtube/views/Gyt-0e6wobk?label=Views&style=social" />](https://twitter.com/yaseen_sheriff) 
-[<img src="https://img.shields.io/youtube/comments/Gyt-0e6wobk?style=social" />](https://twitter.com/yaseen_sheriff) 
-[<img src="https://img.shields.io/youtube/likes/Gyt-0e6wobk?style=social&withDislikes" />](https://twitter.com/yaseen_sheriff) 
+<!-- Image Animation -->
+ <!-- <img src="https://media.giphy.com/media/2WUkAVDzuQbUA/giphy.gif" alt="Coder GIF" width="150" height="100"> -->
