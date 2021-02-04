@@ -96,19 +96,19 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 
 ### Languages -
 
-![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS 3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![PHP](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/-Python-F7F7F7?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript)
-![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery)
+![PHP](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
 
+![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery)
 ![MySql](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&logo=MySql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
-![Python](https://img.shields.io/badge/-Python-F7F7F7?style=for-the-badge&logo=Python)
+![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS 3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+
 ![Dart](https://img.shields.io/badge/-Dart-152030?style=for-the-badge&logo=Dart)
 ![Java](https://img.shields.io/badge/-java-F09522?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/-C-3D46C6?style=for-the-badge&logo=c)
-
 ![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
 
