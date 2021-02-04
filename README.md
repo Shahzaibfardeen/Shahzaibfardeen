@@ -53,7 +53,6 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 <!-- [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
 
 
-
 ### Flexible With -
 
 [<img src="https://img.shields.io/badge/-Linux-000000?style=social&logo=linux" />](#)
@@ -89,67 +88,68 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 
 ### Gaming Engines -
 
-![Unity 3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
-![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-orange?style=for-the-badge&logo=unrealengine)
+![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
 ![Construct 2](https://img.shields.io/badge/-Construct_2-000000?style=for-the-badge&logo=construct)
-![Godot Engine](https://img.shields.io/badge/-Godot_Engine-000000?style=for-the-badge&logo=godotengine)
+![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-orange?style=for-the-badge&logo=unrealengine)
+![GodotEngine](https://img.shields.io/badge/-Godot_Engine-000000?style=for-the-badge&logo=godotengine)
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-F7F7F7?style=for-the-badge&logo=Python)
-![Java](https://img.shields.io/badge/-java-F09522?style=for-the-badge&logo=java)
-![Dart](https://img.shields.io/badge/-Dart-152030?style=for-the-badge&logo=Dart)
-![C](https://img.shields.io/badge/-C-3D46C6?style=for-the-badge&logo=c)
+
+### Languages -
+
 ![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-
-![php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
+![PHP](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
+
 ![MySql](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&logo=MySql)
-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
+![Python](https://img.shields.io/badge/-Python-F7F7F7?style=for-the-badge&logo=Python)
+![Dart](https://img.shields.io/badge/-Dart-152030?style=for-the-badge&logo=Dart)
+![Java](https://img.shields.io/badge/-java-F09522?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/-C-3D46C6?style=for-the-badge&logo=c)
 
-### Tools
+![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript)
+
+
+### Tools -
+
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-2684FF?style=for-the-badge&logo=bitbucket)
+![Firebase](https://img.shields.io/badge/-Firebase-181717?style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-blue?style=for-the-badge&logo=Vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
-
-![Firebase](https://img.shields.io/badge/-Firebase-181717?style=for-the-badge&logo=firebase)
-![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-430098?style=for-the-badge&logo=Eclipse)
 ![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
-![BitBucket](https://img.shields.io/badge/-BitBucket-2684FF?style=for-the-badge&logo=bitbucket)
-
+![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
 
 
 <table>
 	<tr>
 		<td>
-			<h2>Being</h2>
+			<h2> Being </h2>
 		</td>
-		<td>
+	<td>
 	      		<img src="https://media.giphy.com/media/i0EYHNbxPMeSWznjSH/giphy.gif" alt="Coder GIF" width="150" height="100"><img src="https://media.giphy.com/media/fkTFkvYVz5dmg/giphy.gif" alt="Coder GIF" width="100" height="100">
-		</td>
+	</td>
 	</tr>
 </table>
 
-<!-- <img src="https://media.giphy.com/media/2WUkAVDzuQbUA/giphy.gif" alt="Coder GIF" width="150" height="100"> -->
+<!-- Check & Delete -->
 
-<!--
+ <img src="https://media.giphy.com/media/2WUkAVDzuQbUA/giphy.gif" alt="Coder GIF" width="150" height="100"> 
+
 Social Engagement
 ### Twitter
 [<img src="https://img.shields.io/twitter/follow/yaseen_sheriff?label=Follow&style=social" />](https://twitter.com/yaseen_sheriff) 
--->
-<!--
+
 ### YouTube
 [<img src="https://img.shields.io/youtube/views/Gyt-0e6wobk?label=Views&style=social" />](https://twitter.com/yaseen_sheriff) 
 [<img src="https://img.shields.io/youtube/comments/Gyt-0e6wobk?style=social" />](https://twitter.com/yaseen_sheriff) 
 [<img src="https://img.shields.io/youtube/likes/Gyt-0e6wobk?style=social&withDislikes" />](https://twitter.com/yaseen_sheriff) 
-
---->
