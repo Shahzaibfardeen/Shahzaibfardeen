@@ -29,6 +29,7 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibFardeen&hide=TeX&layout=compact&count_private=true)
 
+<!-- Social Sites & Connecting -->
 ### Connect With Me On - 
 
 [<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:fantasticyaseenshariff@gmail.com) 
@@ -69,34 +70,37 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 [<img src="https://img.shields.io/badge/-Apple_iOS-000000?style=social&logo=iOS" />](#)
 
 
-### My Portfolio- 
+### My Portfolio -
 
 [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google" />](https://yaseen.netlify.com)<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">
 
-### Frameworks and Stack
+### Frameworks & Stack -
+
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android)
 ![iOS](https://img.shields.io/badge/-iOS-C0C0C0?style=for-the-badge&logo=apple)
 ![Flask](https://img.shields.io/badge/-Flask-blue?style=for-the-badge&logo=Flask)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-pink?style=for-the-badge&logo=mysql)
-![javascript](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=javascript)
-![javascript](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=javascript)
+![BootStrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=javascript)
+![My SQL](https://img.shields.io/badge/-MySQL-pink?style=for-the-badge&logo=mysql)
 
-### Gaming Engines
-![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
-![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-orange?style=for-the-badge&logo=unrealengine)
+
+### Gaming Engines -
+
+![Unity 3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
+![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-orange?style=for-the-badge&logo=unrealengine)
 ![Construct 2](https://img.shields.io/badge/-Construct_2-000000?style=for-the-badge&logo=construct)
-![GodotEngine](https://img.shields.io/badge/-Godot_Engine-000000?style=for-the-badge&logo=godotengine)
+![Godot Engine](https://img.shields.io/badge/-Godot_Engine-000000?style=for-the-badge&logo=godotengine)
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-F7F7F7?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-java-F09522?style=for-the-badge&logo=java)
 ![Dart](https://img.shields.io/badge/-Dart-152030?style=for-the-badge&logo=Dart)
 ![C](https://img.shields.io/badge/-C-3D46C6?style=for-the-badge&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS 3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ![php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript)
