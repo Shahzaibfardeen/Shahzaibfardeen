@@ -48,42 +48,28 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 [<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />](https://www.behance.net/yaseen59)
 
 
-
-<!-- Check & Delete -->
-
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT)
-![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin)
-     ![Gmail](https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail)
-![World](https://img.shields.io/badge/-World-000000?style=social&logo=world)
-
-[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:fantasticyaseenshariff@gmail.com)
-
- [<img src ="https://img.shields.io/badge/My_Website-%23E4405F.svg?&style=for-the-badge&logo=world&logoColor=white">](https://yaseen.netlify.com)
-
-<!-- Check & Delete -->
+<!-- Ur Own Discord Channel -->
+<!-- [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
 
 
-### Flexible With
+
+### Flexible With -
 
 [<img src="https://img.shields.io/badge/-Linux-000000?style=social&logo=linux" />](#)
 [<img src="https://img.shields.io/badge/-Windows-000000?style=social&logo=windows" />](#) 
 [<img src="https://img.shields.io/badge/-Macintosh-000000?style=social&logo=apple" />](#)
 
-<!-- [<img src="https://img.shields.io/badge/-Debian-000000?style=social&logo=debian" />](#) 
+[<img src="https://img.shields.io/badge/-Debian-000000?style=social&logo=debian" />](#) 
 [<img src="https://img.shields.io/badge/-Ubuntu-000000?style=social&logo=ubuntu" />](#)
 [<img src="https://img.shields.io/badge/-Fedora-000000?style=social&logo=fedora" />](#)
-[<img src="https://img.shields.io/badge/-Cent_Os-000000?style=social&logo=centos" />](#) -->
+[<img src="https://img.shields.io/badge/-Cent_Os-000000?style=social&logo=centos" />](#)
 
-<!-- 
+
 [<img src="https://img.shields.io/badge/-Android-000000?style=social&logo=android" />](#)
 [<img src="https://img.shields.io/badge/-Apple_iOS-000000?style=social&logo=iOS" />](#)
--->
-
-
 
 
 ### My Portfolio- 
-
 
 [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google" />](https://yaseen.netlify.com)<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">
 
