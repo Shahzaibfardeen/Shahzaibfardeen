@@ -13,10 +13,9 @@
 
 
 <!-- A Small Brief About Me -->
-I Am Shahzaib Fardeen, Welcome To My GitHub Repository. <br>
+I Am <b> Shahzaib Fardeen, </b> Welcome To My GitHub Repository. <br>
 Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | <br>
-Project Manager & Web Developer @ SyberStar.I Can Also Design & Develope Mobile & Web Games, <br>
-You Can Also Check My Profile Links For More That Are Given Below.
+Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games <br>
 
 
 <!-- Coder Image & Profile Visit Tags -->
@@ -32,34 +31,36 @@ You Can Also Check My Profile Links For More That Are Given Below.
 
 ### Connect With Me On - 
 
-<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yaseen59/) -->
-[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/yaseen59/) 
 [<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:fantasticyaseenshariff@gmail.com) 
+[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/yaseen59/) 
 [<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />](https://www.youtube.com/c/SyberCode) 
 [<img src="https://img.shields.io/badge/-Pinterest-000000?style=social&logo=pinterest" />](https://in.pinterest.com/Yaseen95/) 
-[<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://medium.com/@yaseen59)
-[<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/syberstar_picture_studio/)
 [<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />](https://repl.it/@Yaseen59)
+[<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549)
+[<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://medium.com/@yaseen59)
 
+
+[<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/syberstar_picture_studio/)
 [<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff) 
-[<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />](https://dribbble.com/Yaseen59) 
-[<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />](https://www.behance.net/yaseen59)
 [<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />](https://discord.gg/68KtaDrfqr)
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](https://stackoverflow.com/users/12053270/)
-[<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549)
+[<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />](https://dribbble.com/Yaseen59) 
+[<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />](https://www.behance.net/yaseen59)
 
 
-<!--[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
 
+<!-- Check & Delete -->
 
-<!-- ![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin)
-     ![Gmail](https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail) -->
-<!-- ![World](https://img.shields.io/badge/-World-000000?style=social&logo=world) -->
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT)
+![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin)
+     ![Gmail](https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail)
+![World](https://img.shields.io/badge/-World-000000?style=social&logo=world)
 
-<!-- [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:fantasticyaseenshariff@gmail.com) -->
+[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:fantasticyaseenshariff@gmail.com)
 
-<!-- [<img src ="https://img.shields.io/badge/My_Website-%23E4405F.svg?&style=for-the-badge&logo=world&logoColor=white">](https://yaseen.netlify.com) -->
+ [<img src ="https://img.shields.io/badge/My_Website-%23E4405F.svg?&style=for-the-badge&logo=world&logoColor=white">](https://yaseen.netlify.com)
 
+<!-- Check & Delete -->
 
 
 ### Flexible With
@@ -67,6 +68,7 @@ You Can Also Check My Profile Links For More That Are Given Below.
 [<img src="https://img.shields.io/badge/-Linux-000000?style=social&logo=linux" />](#)
 [<img src="https://img.shields.io/badge/-Windows-000000?style=social&logo=windows" />](#) 
 [<img src="https://img.shields.io/badge/-Macintosh-000000?style=social&logo=apple" />](#)
+
 <!-- [<img src="https://img.shields.io/badge/-Debian-000000?style=social&logo=debian" />](#) 
 [<img src="https://img.shields.io/badge/-Ubuntu-000000?style=social&logo=ubuntu" />](#)
 [<img src="https://img.shields.io/badge/-Fedora-000000?style=social&logo=fedora" />](#)
