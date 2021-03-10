@@ -1,7 +1,7 @@
 <!-- First Main Heading Of The Profile -->
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shahzaib Fardeen </h1>
-<h3 align="center"> Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | </h3> <br>
-<h3 align="center"> Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. </h3> <br>
+<h3 align="center"> Medi Data - Rave Developer & @ IQVIA | I'm An Full Stack Web & Application Developer | </h3>
+<h3 align="center"> Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. </h3>
 
 
 <!-- Typing Master Picture --> 
