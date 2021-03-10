@@ -102,12 +102,6 @@
 ---
 
 
-<!-- A Small Brief About Me -->
-I Am <b> Shahzaib Fardeen, </b> Welcome To My GitHub Repository. <br> <br>
-Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | <br>
-Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. <br>
-
-
 <!-- Social Sites & Connecting -->
 ### Connect With Me On - 
 
@@ -229,22 +223,18 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-
+<br>
 
 <!-- Coding Going On Image File
    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> -->
-
 
 <!-- Github Stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&locale=en" alt="shahzaibfardeen" /></p>
 <br>
 
-
 <!-- Github Streaks -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamaharihar&" alt="shahzaibfardeen" /></p>
 <br>
 
-
 <!-- Github Profile Trophy -->
  <a href="https://github.com/shahzaibfardeen/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibfardeen" alt="shahzaibfardeen" /></a> 
- 
