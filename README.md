@@ -43,12 +43,13 @@
 </p>
 
 ### Connect With Me On :
+<p align="center">
 <img align="left" alt="shahzaibfardeen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <img align="left" alt="shahzaibfardeen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
+</p>
 <br /> <br />
 
 
@@ -207,6 +208,7 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
 
+<!-- Being Pro Table
 <table>
 	<tr>
 		<td>
@@ -216,7 +218,7 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 	      	<img src="https://media.giphy.com/media/i0EYHNbxPMeSWznjSH/giphy.gif" alt="Coder GIF" width="150" height="100"><img src="https://media.giphy.com/media/fkTFkvYVz5dmg/giphy.gif" alt="Coder GIF" width="100" height="100">
 	</td>
 	</tr>
-</table>
+</table> -->
 
 <!-- Image Animation -->
  <!-- <img src="https://media.giphy.com/media/2WUkAVDzuQbUA/giphy.gif" alt="Coder GIF" width="150" height="100"> -->
@@ -229,17 +231,16 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 </p>
 
 
-<p align="center"> 
-
 <!-- Github Stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&locale=en" alt="shahzaibfardeen" /></p>
+<br>
+
 
 <!-- Github Streaks -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamaharihar&" alt="shahzaibfardeen" /></p>
-</p>
+<br>
 
-<br> <br>
-    
+
 <!-- Github Profile Trophy -->
  <a href="https://github.com/shahzaibfardeen/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibfardeen" alt="shahzaibfardeen" /></a> 
-
+ 
