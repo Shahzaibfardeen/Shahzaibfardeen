@@ -1,8 +1,16 @@
-
+<!-- First Main Heading Of The Profile -->
 <h1 align="center"> Hi 👋, I'm Shahzaib Fardeen </h1>
 <h3 align="center"> Rave Developer @ IQVIA </h3>
 
+
+<!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+
+<!-- Coder Image & Profile Visit Tags 
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250"> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahzaibfardeen" alt="Shahzaib Fardeen" /> </p>
+
 
 <p align="center"> <a href="https://github.com/shahzaibfardeen/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibfardeen" alt="shahzaibfardeen" /></a> </p>
 
@@ -90,12 +98,6 @@
 I Am <b> Shahzaib Fardeen, </b> Welcome To My GitHub Repository. <br>
 Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | <br>
 Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. <br>
-
-
-<!-- Coder Image & Profile Visit Tags -->
-		
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahzaibfardeen" alt="Shahzaib Fardeen" /> </p>
 
 
 <!-- Git Status & Most Language Used Tables -->
