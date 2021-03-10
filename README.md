@@ -1,5 +1,20 @@
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
+<h1 align="center">Hi 👋, I'm Shyama Harihar</h1>
+<h3 align="center">A CSE Undergrad at Amrita Vishwa Vidyapeetham</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamaharihar&label=Profile%20views&color=0e75b6&style=flat" alt="shyamaharihar" /> </p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyamaharihar" alt="shyamaharihar" /></a> </p>
+
+
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+	
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamaharihar&show_icons=true&locale=en" alt="shyamaharihar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamaharihar&" alt="shyamaharihar" /></p>
+	
 **Here Are Some Of The Ideas To Get You Started:**
 
 - 🔭 I’m Currently Working On `Full Stack Web Developer.`
