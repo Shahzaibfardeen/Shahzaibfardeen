@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyamaharihar" alt="shyamaharihar" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/shahzaibfardeen/github-profile-trophy)
 
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 	
