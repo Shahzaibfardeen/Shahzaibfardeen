@@ -223,6 +223,9 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
  
  
 <p align="left">
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+	
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibFardeen&hide=TeX&layout=compact&count_private=true)
    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> 
 </p>
