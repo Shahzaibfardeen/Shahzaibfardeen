@@ -20,7 +20,7 @@
 
 <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br />
-<br />
+<br /> <br />
 
 <!-- Main Content Of The Page -->
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
@@ -33,15 +33,15 @@
 - 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization.
 - 💬 Ask Me About : Anything Related To `Design & Develope`
 - 📫 How To Reach Me: Mail Me : @ S4shahzaib73@gmail.com
-
-
 <br>
-  
+
+
 <!-- Find Me On The Web -->
 <p align="center">
   <b><i>Let's Connect !! Find Me On The Web.</i></b>
 	<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-	
+</p>
+
 ### Connect With Me :
 
 [<img align="left" alt="shahzaibfardeen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
