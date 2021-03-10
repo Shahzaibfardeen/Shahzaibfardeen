@@ -49,7 +49,7 @@
 <img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <img align="left" alt="shahzaibfardeen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-<br />
+<br /> <br />
 
 
 <!-- Old Languages Tools Bar
@@ -95,9 +95,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25px" height="25px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25px" height="25px"/>
   </p>
-
-
-<br /> <br />
+<br />
 
 ---
 
@@ -107,8 +105,6 @@ I Am <b> Shahzaib Fardeen, </b> Welcome To My GitHub Repository. <br> <br>
 Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | <br>
 Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. <br>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibFardeen&hide=TeX&layout=compact&count_private=true)
 
 <!-- Social Sites & Connecting -->
 ### Connect With Me On - 
@@ -242,6 +238,8 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 
 
 <p align="left">
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibFardeen&hide=TeX&layout=compact&count_private=true)
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh062&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> 
 </p>
