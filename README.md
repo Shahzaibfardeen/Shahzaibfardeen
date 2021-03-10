@@ -6,16 +6,9 @@
 
 <p align="center"> <a href="https://github.com/shahzaibfardeen/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibfardeen" alt="shahzaibfardeen" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 	
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamaharihar&show_icons=true&locale=en" alt="shyamaharihar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamaharihar&" alt="shahzaibfardeen" /></p>
-
-
+	
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 	
 **Here Are Some Of The Ideas To Get You Started:**
@@ -250,13 +243,22 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 <summary>📊 Github Stats</summary>
 
 <p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh062&show_icons=true&theme=blue-green&line_height=21"/>
+
+<!-- Github Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&locale=en" alt="shahzaibfardeen" /></p>
+
+<!-- Github Streaks -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamaharihar&" alt="shahzaibfardeen" /></p>
+
     <br> <br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=rishabh062&theme=dracula" alt="Rishabh's github trophy"/>
+
+<!-- Github Profile Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
+
 </details>
 
 <br>
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rishabh062/count.svg" />
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/shahzaibfardeen/count.svg" />
 </p>
