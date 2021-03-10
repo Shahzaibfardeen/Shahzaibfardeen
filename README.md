@@ -1,6 +1,7 @@
 <!-- First Main Heading Of The Profile -->
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shahzaib Fardeen </h1>
-<h3 align="center"> Rave Developer @ IQVIA </h3>
+<h3 align="center"> Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | </h3> <br>
+<h3 align="center"> Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. </h3> <br>
 
 
 <!-- Typing Master Picture --> 
@@ -227,8 +228,11 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 <p align="left">
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> 
 </p>
+
+
+<!-- Coding Going On Image File
+   <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> -->
 
 
 <!-- Github Stats -->
