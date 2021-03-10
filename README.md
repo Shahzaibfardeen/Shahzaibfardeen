@@ -13,6 +13,10 @@
   
 <!-- New Edit Files -->
 
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+	<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+	
 ### Connect with me:
 
 [<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -202,3 +206,43 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 
 <!-- Image Animation -->
  <!-- <img src="https://media.giphy.com/media/2WUkAVDzuQbUA/giphy.gif" alt="Coder GIF" width="150" height="100"> -->
+ 
+ 
+ 
+ <!-- New Files -->
+ **"I really loves technology because it empowers you to do the things which seems to be impossible or hard to normal peoples.
+Always ready for help :-) :-) :)"**
+
+ <img src="https://raw.githubusercontent.com/heytanay/heytanay/master/bolt.gif" width="30px"> **Technology and Tools I Knows.**
+<br><br>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://cdn-blog.adafruit.com/uploads/2012/12/github-logo-transparent.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" width="40" src="https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg"></code>
+<p align="left">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh062&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
+   <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> 
+</p>
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh062&show_icons=true&theme=blue-green&line_height=21"/>
+    <br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=rishabh062&theme=dracula" alt="Rishabh's github trophy"/>
+
+
+</details>
+
+<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rishabh062/count.svg" />
+</p>
