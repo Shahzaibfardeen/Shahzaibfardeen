@@ -6,8 +6,6 @@
 
 <p align="center"> <a href="https://github.com/shahzaibfardeen/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibfardeen" alt="shahzaibfardeen" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/shahzaibfardeen/github-profile-trophy)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -108,7 +106,7 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 
 
 <!-- Git Status & Most Language Used Tables -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ShahzaibFardeen)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibFardeen&hide=TeX&layout=compact&count_private=true)
 
