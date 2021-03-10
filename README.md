@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<p align="left"> <a href="https://github.com/shahzaibfardeen/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibfardeen" alt="shahzaibfardeen" /></a> </p>
+<p align="center"> <a href="https://github.com/shahzaibfardeen/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibfardeen" alt="shahzaibfardeen" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/shahzaibfardeen/github-profile-trophy)
 
