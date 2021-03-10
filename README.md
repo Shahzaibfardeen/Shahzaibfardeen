@@ -52,6 +52,7 @@
 <br />
 
 
+<!-- Old Languages Tools Bar
 ### Languages And Tools :
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -69,11 +70,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-<br /> <br />
-
----
+-->
 
 
 <!-- New Languages & Tools Bar -->
@@ -99,15 +96,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25px" height="25px"/>
   </p>
 
-<!-- New Files -->
+
+<br /> <br />
+
+---
+
 
 <!-- A Small Brief About Me -->
-I Am <b> Shahzaib Fardeen, </b> Welcome To My GitHub Repository. <br>
+I Am <b> Shahzaib Fardeen, </b> Welcome To My GitHub Repository. <br> <br>
 Medi Data - Rave Developer & Project Manager @ IQVIA | I'm An Full Stack Web & Application Developer | <br>
 Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. <br>
-
-
-<!-- Git Status & Most Language Used Tables -->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibFardeen&hide=TeX&layout=compact&count_private=true)
