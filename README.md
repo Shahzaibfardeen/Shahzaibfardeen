@@ -20,13 +20,12 @@
 
 <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br />
+<br />
 
 <!-- Main Content Of The Page -->
-<p align="center">
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
-</p>
 
-**Here Are Some Of The Ideas To Get You Started:**
+**Here Are Some Of The Ideas To Get You Started :**
 
 - 🔭 I’m Currently Working On `Full Stack Web Developer.`
 - 🌱 I’m Currently Learning `React & Redux.`
