@@ -14,10 +14,10 @@
 <!-- New Edit Files -->
 
 <p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
+  <b><i>Let's Connect !! Find Me On The Web.</i></b>
 	<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 	
-### Connect with me:
+### Connect With Me :
 
 [<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -27,7 +27,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages And Tools :
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -211,11 +211,7 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
  
  <!-- New Files -->
 
- <img src="https://raw.githubusercontent.com/heytanay/heytanay/master/bolt.gif" width="30px"> 
- **Technology and Tools I Knows.**
- <img src="https://raw.githubusercontent.com/heytanay/heytanay/master/bolt.gif" width="30px">
-
-<br><br>
+<br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://cdn-blog.adafruit.com/uploads/2012/12/github-logo-transparent.jpg"></code>
@@ -225,7 +221,7 @@ Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" width="40" src="https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg"></code>
+
 
 <p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh062&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
