@@ -233,7 +233,7 @@
 <br>
 
 <!-- Github Streaks -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamaharihar&" alt="shahzaibfardeen" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br>
 
 <!-- Github Profile Trophy -->
