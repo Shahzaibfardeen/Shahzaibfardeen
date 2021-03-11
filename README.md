@@ -218,7 +218,7 @@
  <!-- <img src="https://media.giphy.com/media/2WUkAVDzuQbUA/giphy.gif" alt="Coder GIF" width="150" height="100"> -->
  
  
-<p align="left">
+<p align="right">
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
@@ -227,9 +227,7 @@
    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> -->
 
 <!-- Github Stats -->
-<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 <!-- Github Streaks -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
