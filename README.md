@@ -231,8 +231,6 @@
 <!-- Github Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&locale=en" alt="shahzaibfardeen" /></p>
-<br>
 
 <!-- Github Streaks -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
