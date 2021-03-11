@@ -44,11 +44,11 @@
 </p>
 
 ### Connect With Me On :
-<img align="center" alt="shahzaibfardeen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="center" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="center" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="center" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="center" alt="shahzaibfardeen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="shahzaibfardeen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="shahzaibfardeen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br /> <br />
 
@@ -232,7 +232,7 @@
 </p>
 
 <!-- Github Streaks -->
-[![GitHub Streak](img align=center https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br>
 
 <!-- Github Profile Trophy -->
