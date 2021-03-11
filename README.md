@@ -223,7 +223,6 @@
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-<br>
 
 <!-- Coding Going On Image File
    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> -->
@@ -237,4 +236,4 @@
 <br>
 
 <!-- Github Profile Trophy -->
- <a href="https://github.com/shahzaibfardeen/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibfardeen" alt="shahzaibfardeen" /></a> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
