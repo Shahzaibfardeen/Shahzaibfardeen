@@ -229,7 +229,8 @@
    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> -->
 
 <!-- Github Stats -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shahzaibfardeen)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shahzaibfardeen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&locale=en" alt="shahzaibfardeen" /></p>
 <br>
