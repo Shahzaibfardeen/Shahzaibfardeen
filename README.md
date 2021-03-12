@@ -1,6 +1,6 @@
 <!-- First Main Heading Of The Profile -->
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shahzaib Fardeen </h1>
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>, I'm Shahzaib Fardeen </h1>
 <h4 align="center"> Medi Data - Rave Developer & @ IQVIA | I'm An Full Stack Web & Application Developer | </h4>
 <h4 align="center"> Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. </h4>
 
