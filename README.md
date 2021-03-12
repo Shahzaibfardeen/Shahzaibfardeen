@@ -17,7 +17,7 @@
 <br />
 
 <!-- My Portfolio Bar -->
-[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google" />]()<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">]
+[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google" />]()<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">
 
 <!-- Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahzaibfardeen" alt="Shahzaib Fardeen" /> </p> -->
