@@ -217,11 +217,11 @@
   <br/>
 </details>
 
-<!-- Top Languages White Color
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- Top Languages White Color -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Github Stats White Color
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- Github Stats White Color -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
