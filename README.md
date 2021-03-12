@@ -209,17 +209,20 @@
 <!-- Updated Github Stats -->
 ## 📊 Github Stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-	
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </details>
+
+<!-- Top Languages White Color
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- Github Stats White Color
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
@@ -356,17 +359,10 @@
 <!-- Image Animation -->
  <!-- <img src="https://media.giphy.com/media/2WUkAVDzuQbUA/giphy.gif" alt="Coder GIF" width="150" height="100"> -->
 
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!-- Coding Going On Image File
    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> -->
-
-
-<!-- Github Stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+   
 
 <!-- Github Profile Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
