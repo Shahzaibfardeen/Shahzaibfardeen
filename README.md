@@ -54,12 +54,12 @@
 
 **Here Are Some Of The Ideas To Get You Started :**
 <p align="center"> </p>
-- 🔭 I’m Currently Working On `Full Stack Web Developer.` <br/>
-- 🌱 I’m Currently Learning `React & Redux.` <br/>
-- 👯 I’m Looking to Collaborate On `Any Organization OR Teams.` <br/>
-- 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization. <br/>
-- 💬 Ask Me About : Anything Related To `Design & Develope` <br/>
-- 📫 How To Reach Me: Mail Me : @ S4shahzaib73@gmail.com <br/>
+- 🔭 I’m Currently Working On `Full Stack Web Developer.`
+- 🌱 I’m Currently Learning `React & Redux.`
+- 👯 I’m Looking to Collaborate On `Any Organization OR Teams.`
+- 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization.
+- 💬 Ask Me About : Anything Related To `Design & Develope`
+- 📫 How To Reach Me: Mail Me : @ S4shahzaib73@gmail.com
 <br>
 
 <!-- ## 📘 My top open source projects For Later Purpose
