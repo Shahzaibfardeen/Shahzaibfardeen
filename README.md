@@ -55,6 +55,7 @@
 **Here Are Some Of The Ideas To Get You Started :**
 <p align="center"> </p>
 - 🔭 I’m Currently Working On `Full Stack Web Developer.` <br>
+- 🔭 I’m Currently Working On `Full Stack Web Developer.` <br>
 - 🌱 I’m Currently Learning `React & Redux.` <br>
 - 👯 I’m Looking to Collaborate On `Any Organization OR Teams.` <br>
 - 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization. <br>
