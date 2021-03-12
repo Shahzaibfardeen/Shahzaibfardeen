@@ -231,16 +231,19 @@
   <br/>
 
 <!--START_SECTION:activity-->
+<!--
 1. ❗️ Opened issue [#1003](https://github.com/albertlauncher/albert/issues/1003) in [albertlauncher/albert](https://github.com/albertlauncher/albert)
 2. 🎉 Merged PR [#97](https://github.com/DenverCoder1/jct-discord-bot/pull/97) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 3. ❗️ Closed issue [#96](https://github.com/DenverCoder1/jct-discord-bot/issues/96) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 4. 💪 Opened PR [#97](https://github.com/DenverCoder1/jct-discord-bot/pull/97) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 5. 🗣 Commented on [#96](https://github.com/DenverCoder1/jct-discord-bot/issues/96) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-<!--END_SECTION:activity-->
-</details>
+END_SECTION:activity-->
 
+</details>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shahzaibfardeen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 <!-- Social Sites & Connecting -->
