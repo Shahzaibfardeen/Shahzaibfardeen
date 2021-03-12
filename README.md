@@ -353,7 +353,7 @@ END_SECTION:activity-->
 <!-- Coding Going On Image File
    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> -->
    
-<!-- Github Profile Trophy -->
+<!-- Github Profile Trophy
 <p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
- </p>
+ </p> -->
