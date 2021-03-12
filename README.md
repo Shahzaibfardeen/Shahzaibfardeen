@@ -352,6 +352,4 @@ END_SECTION:activity-->
    
 
 <!-- Github Profile Trophy -->
-<p align=center>
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
