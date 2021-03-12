@@ -1,7 +1,7 @@
 <!-- First Main Heading Of The Profile -->
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shahzaib Fardeen <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 
-<h4 align="center"> Medi Data - Rave Developer & @ IQVIA | I'm An Full Stack Web & Application Developer | </h4>
+<h4 align="center"> Medi Data - Rave Developer @ IQVIA | I'm An Full Stack Web & Application Developer | </h4>
 <h4 align="center"> Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. </h4>
 
 <!-- Typing Master Picture --> 
@@ -135,7 +135,7 @@
 <!-- Ur Own Discord Channel -->
 <!-- [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
 
-<br /> <br />
+<br />
 
 
 <!-- Old Languages Tools Bar
@@ -185,9 +185,8 @@
 
 ---
 
-<!-- New Updated Languages & Tools Bar -->
+<!-- New Updated Languages & Tools Bar
 ## 👨‍💻 Languages and Tools:
-
 <p align="center">
   <a href="#"><img alt="JavaScript" title="JavaScript" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
@@ -227,7 +226,7 @@
       src="https://img.icons8.com/color/48/000000/heroku.png" /></a>
   <a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="36px"
       src="https://i.imgur.com/UfBWFbP.png" /></a>
-</p>
+</p> -->
 
 
 <!-- Updated Github Stats -->
