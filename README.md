@@ -57,7 +57,7 @@
 - 🌱 I’m Currently Learning `React & Redux.` <br>
 - 👯 I’m Looking to Collaborate On `Any Organization OR Teams.` <br>
 - 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization. <br>
-- 💬 Ask Me About : Anything Related To `Design & Develope.` <br>
+- 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
 - 📫 How To Reach Me: Mail Me : @ S4shahzaib73@gmail.com <br>
 <br>
 
@@ -353,6 +353,7 @@ END_SECTION:activity-->
 <!-- Coding Going On Image File
    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> -->
    
-<!-- <p align="center"> </p> -->
-<!-- Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- Github Profile Trophy -->
+<p align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
+ </p>
