@@ -53,13 +53,11 @@
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
 **Here Are Some Of The Ideas To Get You Started :**
-<p align="center"> </p>
-- 🔭 I’m Currently Working On `Full Stack Web Developer.` <br>
 - 🔭 I’m Currently Working On `Full Stack Web Developer.` <br>
 - 🌱 I’m Currently Learning `React & Redux.` <br>
 - 👯 I’m Looking to Collaborate On `Any Organization OR Teams.` <br>
 - 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization. <br>
-- 💬 Ask Me About : Anything Related To `Design & Develope` <br>
+- 💬 Ask Me About : Anything Related To `Design & Develope.` <br>
 - 📫 How To Reach Me: Mail Me : @ S4shahzaib73@gmail.com <br>
 <br>
 
@@ -355,6 +353,6 @@ END_SECTION:activity-->
 <!-- Coding Going On Image File
    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> -->
    
-
+<!-- <p align="center"> </p> -->
 <!-- Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy) -->
