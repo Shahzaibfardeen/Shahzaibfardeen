@@ -4,6 +4,11 @@
 <h4 align="center"> Medi Data - Rave Developer & @ IQVIA | I'm An Full Stack Web & Application Developer | </h4>
 <h4 align="center"> Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. </h4>
 
+
+### My Portfolio -
+[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google" />]()<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">
+
+
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -48,18 +53,16 @@
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
 **Here Are Some Of The Ideas To Get You Started :**
-<p align="center">
+<p align="center"> </p>
 - 🔭 I’m Currently Working On `Full Stack Web Developer.` <br/>
 - 🌱 I’m Currently Learning `React & Redux.` <br/>
 - 👯 I’m Looking to Collaborate On `Any Organization OR Teams.` <br/>
 - 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization. <br/>
 - 💬 Ask Me About : Anything Related To `Design & Develope` <br/>
 - 📫 How To Reach Me: Mail Me : @ S4shahzaib73@gmail.com <br/>
-</p>
 <br>
 
 <!-- ## 📘 My top open source projects For Later Purpose
-
 <table>
   <thead align="center">
     <tr border: none;>
@@ -104,12 +107,34 @@
 	<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </p>
 
+<!-- Web Sites Icons 
 ### Connect With Me On :
 <img align="left" alt="shahzaibfardeen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="left" alt="shahzaibfardeen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="shahzaibfardeen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> -->
+
+<!-- Social Sites & Connecting -->
+### Connect With Me On - 
+
+[<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:s4shahzaib73@gmail.com) 
+[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/shahzaib-fardeen/) 
+[<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />]() 
+[<img src="https://img.shields.io/badge/-Pinterest-000000?style=social&logo=pinterest" />]() 
+[<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />]()
+[<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />]()
+[<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />]()
+
+[<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/shahzaib_fardeen/)
+[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/ShahzaibFardeen) 
+[<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />]()
+[<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />]()
+[<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />]() 
+[<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />]()
+
+<!-- Ur Own Discord Channel -->
+<!-- [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
 
 <br /> <br />
 
@@ -244,50 +269,18 @@ END_SECTION:activity-->
 <!-- Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shahzaibfardeen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-
-<!-- Social Sites & Connecting -->
-### Connect With Me On - 
-
-[<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:s4shahzaib73@gmail.com) 
-[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/shahzaib-fardeen/) 
-[<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />]() 
-[<img src="https://img.shields.io/badge/-Pinterest-000000?style=social&logo=pinterest" />]() 
-[<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />]()
-[<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />]()
-[<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />]()
-
-
-[<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/shahzaib_fardeen/)
-[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/ShahzaibFardeen) 
-[<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />]()
-[<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />]()
-[<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />]() 
-[<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />]()
-
-
-<!-- Ur Own Discord Channel -->
-<!-- [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
-
-
+<!-- Additionals Techs & Other Stuffs 
 ### Flexible With -
-
 [<img src="https://img.shields.io/badge/-Linux-000000?style=social&logo=linux" />](#)
 [<img src="https://img.shields.io/badge/-Windows-000000?style=social&logo=windows" />](#) 
 [<img src="https://img.shields.io/badge/-Macintosh-000000?style=social&logo=apple" />](#)
-
 [<img src="https://img.shields.io/badge/-Debian-000000?style=social&logo=debian" />](#) 
 [<img src="https://img.shields.io/badge/-Ubuntu-000000?style=social&logo=ubuntu" />](#)
 [<img src="https://img.shields.io/badge/-Fedora-000000?style=social&logo=fedora" />](#)
 [<img src="https://img.shields.io/badge/-Cent_Os-000000?style=social&logo=centos" />](#)
-
-
 [<img src="https://img.shields.io/badge/-Android-000000?style=social&logo=android" />](#)
-[<img src="https://img.shields.io/badge/-Apple_iOS-000000?style=social&logo=iOS" />](#)
+[<img src="https://img.shields.io/badge/-Apple_iOS-000000?style=social&logo=iOS" />](#) -->
 
-
-### My Portfolio -
-
-[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google" />]()<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">
 
 ### Frameworks & Stack -
 
