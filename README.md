@@ -4,10 +4,8 @@
 <h4 align="center"> Medi Data - Rave Developer & @ IQVIA | I'm An Full Stack Web & Application Developer | </h4>
 <h4 align="center"> Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. </h4>
 
-
-### My Portfolio -
+<!-- My Portfolio Bar -->
 [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google" />]()<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">
-
 
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
