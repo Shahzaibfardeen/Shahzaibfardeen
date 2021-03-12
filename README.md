@@ -22,10 +22,6 @@
 <!-- Logo Of Microsoft Azure
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> -->
 
-<br /> <br /> <br /> <br /> <br />
-<br /> <br /> <br /> <br /> <br />
-<br /> <br />
-
 
 <!-- Center Follow Tabs -->
 <p align="center">
@@ -39,11 +35,10 @@
 
 <!-- Github Streaks Stats -->
 <p align="center">
-  <a href="https://github.com/shahzaibfardeen/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
-
 
 <!-- Main Content Of The Page -->
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
