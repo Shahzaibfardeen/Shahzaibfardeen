@@ -49,11 +49,9 @@
   <tr><th><a href="https://skyline.github.com/arshdeepsahni/2020"><img width="1000px" src="https://user-images.githubusercontent.com/56549294/109688463-4b205900-7baa-11eb-9a16-e8df056b2e14.gif"></a></th></tr>
 </table></div> 
 
-
 <div align="center"><table>
-  <tr><th><a href="https://skyline.github.com/shahzaibfardeen/2020"><img width="1000px" src="./Shahzaibfardeen-2020.stl"></a></th></tr>
-</table></div>
-
+  <tr><th><a href="https://skyline.github.com/shahzaibfardeen/2020"><img width="1000px" src="https://user-images.githubusercontent.com/56549294/109688463-4b205900-7baa-11eb-9a16-e8df056b2e14.gif"></a></th></tr>
+</table></div> 
 
 <!-- Github Streaks Stats - Black & Orange Combo 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
