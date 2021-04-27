@@ -51,7 +51,7 @@
 
 
 <div align="center"><table>
-  <tr><th><a href="https://skyline.github.com/shahzaibfardeen/2020"><img width="1000px" src="Shahzaibfardeen-2020.stl"></a></th></tr>
+  <tr><th><a href="https://skyline.github.com/shahzaibfardeen/2020"><img width="1000px" src="./Shahzaibfardeen-2020.stl"></a></th></tr>
 </table></div>
 
 
