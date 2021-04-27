@@ -61,7 +61,7 @@
 <!-- Main Content Of The Page -->
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
-**Here Are Some Of The Ideas To Get You Started :**
+**Here Are Some Of The Ideas To Get You Started :** 
 - 🔭 I’m Currently Working On `Full Stack Web Developer.` <br>
 - 🌱 I’m Currently Learning `React & Redux.` <br>
 - 👯 I’m Looking to Collaborate On `Any Organization OR Teams.` <br>
