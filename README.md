@@ -131,7 +131,7 @@
 <br />
 
 
-<!-- Old Languages Tools Bar Big Size
+<!-- Old Languages Tools Bar Big Size -->
 ### Languages And Tools :
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -149,7 +149,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
--->
+
 
 
 <!-- New Languages & Tools Bar Small Size -->
@@ -222,8 +222,9 @@
 </p> 
 
 
-<!-- Details / Blog / Recent Table -->
-<!-- Currently working on [Datasette](https://datasette.io/) and associated projects. Read [my blog](https://simonwillison.net/) or [follow @simonw on Twitter](https://twitter.com/simonw).
+<!-- Details / Blog / Recent Table-->
+
+Currently working on [Datasette](https://datasette.io/) and associated projects. Read [my blog](https://simonwillison.net/) or [follow @simonw on Twitter](https://twitter.com/simonw).
 
 <table><tr><td valign="top" width="33%">
 
@@ -278,12 +279,13 @@ More on [simonwillison.net](https://simonwillison.net/)
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
 
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>-->
-<!-- End Part Of The Table -->
+<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
 
+<!--End Part Of The Table -->
 
 
 <!-- New App / Web Site Release Site -->
+
 <!-- <div align="center">
 	
 [![][logo-url]][repo-url]  
