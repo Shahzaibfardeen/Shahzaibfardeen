@@ -235,7 +235,6 @@
 <!-- New App / Web Site Release Site -->
 
 <div align="center">
-
 [![][logo-url]][repo-url]  
 
 **Tailwind CSS Components**  
@@ -243,7 +242,6 @@
   
 
 </div>
-
 [![][banner-url]][repo-url]  
 
 
