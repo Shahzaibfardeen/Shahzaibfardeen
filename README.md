@@ -158,7 +158,6 @@
 <!-- Details / Blog / Recent Table-->
 
 Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow @shahzaibfardeen on Twitter](https://twitter.com/shahzaibfardee).
-
 <table><tr><td valign="top" width="33%">
 
 ### Recent Releases Framework
@@ -178,6 +177,8 @@ Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Pr
 [sqlite-transform 0.5](https://github.com/simonw/sqlite-transform/releases/tag/0.5) - 2021-03-24
 
 [iam-to-sqlite 0.1](https://github.com/simonw/iam-to-sqlite/releases/tag/0.1) - 2021-03-24
+
+More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 <!-- Recent Releases Ends -->
 </td><td valign="top" width="33%">
 
@@ -208,9 +209,8 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Usable horizontal scrollbars in the Django admin for mouse users](https://til.simonwillison.net/django/django-admin-horizontal-scroll) - 2021-04-20
 
 [Enabling the fuzzystrmatch extension in PostgreSQL with a Django migration](https://til.simonwillison.net/django/migration-postgresql-fuzzystrmatch) - 2021-04-18
-<!-- Ends -->
 
-More on [til.simonwillison.net](https://til.simonwillison.net/)
+<!-- Ends -->
 </td></tr></table>
 <!--End Part Of The Table -->
 
