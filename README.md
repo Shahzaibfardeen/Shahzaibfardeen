@@ -196,8 +196,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 [Weeknotes: SpatiaLite 5, Datasette on Azure, more CDC vaccination history](http://simonwillison.net/2021/Mar/28/weeknotes/) - 2021-03-28
 <!-- Blog Ends -->
-
-More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
 
 ### Recent Projects
@@ -211,14 +209,12 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Usable horizontal scrollbars in the Django admin for mouse users](https://til.simonwillison.net/django/django-admin-horizontal-scroll) - 2021-04-20
 
 [Enabling the fuzzystrmatch extension in PostgreSQL with a Django migration](https://til.simonwillison.net/django/migration-postgresql-fuzzystrmatch) - 2021-04-18
-
 <!-- Ends -->
 </td></tr></table>
 <!--End Part Of The Table -->
 
 
 <!-- New App / Web Site Release Site -->
-
 <!-- <div align="center">
 	
 [![][logo-url]][repo-url]  
@@ -240,11 +236,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 <!-- Updated Github Stats -->
 ## 📊 Github Statistics
-
-<!-- <details> 
-  <summary>💻 GitHub Profile Stats</summary>
-</details> -->
-
 <br/>	
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 	<br />
