@@ -152,17 +152,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<br />
-
-
-<!-- New Updated Languages & Tools Bar Now -->
-<p align="center">
-  
   <a href="#"><img alt="PHP" title="PHP" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
-  <a href="#"><img alt="Python" title="Python" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
   <a href="#"><img alt="C++" title="C++" height="36px"
       src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
   <a href="#"><img alt="C#" title="C#" height="36px"
@@ -171,13 +164,9 @@
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
   <a href="#"><img alt="Flutter" title="Flutter" height="36px"
       src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
-  <a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="36px"
-      src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
   <a href="#"><img alt="Android Studio" title="Android Studio" height="36px"
       src="https://i.imgur.com/6nJGNMN.png" /></a>
-
-</p> 
-
+<br />
 
 <!-- Details / Blog / Recent Table-->
 
