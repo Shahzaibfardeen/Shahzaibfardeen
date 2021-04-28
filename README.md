@@ -152,17 +152,15 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
-  <a href="#"><img alt="Flutter" title="Flutter" height="36px"
-      src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
 <br />
 
 <!-- Details / Blog / Recent Table-->
 
-Currently working on [UI Laboratory](https://datasette.io/) and Associated Projects. Read [My Blogs](https://simonwillison.net/) Or [follow @shahzaibfardeen on Twitter](https://twitter.com/shahzaibfardee).
+Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow @shahzaibfardeen on Twitter](https://twitter.com/shahzaibfardee).
 
 <table><tr><td valign="top" width="33%">
 
-### Recent releases
+### Recent Releases Framework
 <!-- recent_releases starts -->
 [django-sql-dashboard 0.11a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.11a0) - 2021-04-26
 
@@ -183,7 +181,7 @@ Currently working on [UI Laboratory](https://datasette.io/) and Associated Proje
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
-### On my blog
+### On My Blog
 <!-- blog starts -->
 [Weeknotes: Vaccinate The States, and how I learned that returning dozens of MB of JSON works just fine these days](http://simonwillison.net/2021/Apr/26/vaccinate-the-states/) - 2021-04-26
 
@@ -195,11 +193,12 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 [Weeknotes: SpatiaLite 5, Datasette on Azure, more CDC vaccination history](http://simonwillison.net/2021/Mar/28/weeknotes/) - 2021-03-28
 <!-- blog ends -->
+
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
 
-### TIL
-<!-- tils starts -->
+### Recent Projects
+<!-- Starts -->
 [Django Admin action for exporting selected rows as CSV](https://til.simonwillison.net/django/export-csv-from-django-admin) - 2021-04-26
 
 [Constructing GeoJSON in PostgreSQL](https://til.simonwillison.net/postgresql/constructing-geojson-in-postgresql) - 2021-04-24
@@ -209,12 +208,12 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Usable horizontal scrollbars in the Django admin for mouse users](https://til.simonwillison.net/django/django-admin-horizontal-scroll) - 2021-04-20
 
 [Enabling the fuzzystrmatch extension in PostgreSQL with a Django migration](https://til.simonwillison.net/django/migration-postgresql-fuzzystrmatch) - 2021-04-18
-<!-- tils ends -->
+<!-- Ends -->
+
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
 
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
-
+<a href="https://github.com/shahzaibfardeen/shahzaibfardeen/actions"><img src="https://github.com/shahzaibfardeen/shahzaibfardeen/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 <!--End Part Of The Table -->
 
 
