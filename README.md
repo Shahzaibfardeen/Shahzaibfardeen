@@ -200,15 +200,18 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 ### Recent Projects
 <!-- Starts -->
-[Django Admin action for exporting selected rows as CSV](https://til.simonwillison.net/django/export-csv-from-django-admin) - 2021-04-26
 
-[Constructing GeoJSON in PostgreSQL](https://til.simonwillison.net/postgresql/constructing-geojson-in-postgresql) - 2021-04-24
+[BirthDay Card](https://shahzaibfardeen.github.io/Hapie_Bday_Sadu/) - 17-04-2021
 
-[Filter by comma-separated values in the Django admin](https://til.simonwillison.net/django/filter-by-comma-separated-values) - 2021-04-21
+[Restaurant App Using BootStrap 4](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/) - 10-04-2021
 
-[Usable horizontal scrollbars in the Django admin for mouse users](https://til.simonwillison.net/django/django-admin-horizontal-scroll) - 2021-04-20
+[Tic Tac Toe - Game](https://shahzaibfardeen.github.io/Tic_Tac_Toe/) - 20-03-2021
 
-[Enabling the fuzzystrmatch extension in PostgreSQL with a Django migration](https://til.simonwillison.net/django/migration-postgresql-fuzzystrmatch) - 2021-04-18
+[Single Page Restaurant Web App](https://shahzaibfardeen.github.io/Chinese-Single_Landing_Webpage/index.html) - 05-02-2021
+
+[Animated User Login Form](https://shahzaibfardeen.github.io/Login-Form/) - 14-01-2021
+
+[New Application - Single Landing Page](https://shahzaibfardeen.github.io/Syberstar-Application/) - 10-11-2020
 <!-- Ends -->
 </td></tr></table>
 <!--End Part Of The Table -->
