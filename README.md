@@ -158,7 +158,8 @@
 
 <!-- Details / Blog / Recent Table-->
 <br>
-Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow @shahzaibfardeen on Twitter](https://twitter.com/shahzaibfardee).
+
+Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow @shahzaibfardeen on Twitter](https://twitter.com/shahzaibfardeen).
 <table><tr><td valign="top" width="33%">
 
 ### Recent Releases Framework
