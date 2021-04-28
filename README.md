@@ -241,8 +241,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 	<br />
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
 
-<!-- White Color Github Stats 	
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- White Color Github Stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Black Color Github Stats 	-->
   <br/> <br />
@@ -336,7 +336,7 @@ END_SECTION:activity-->
 ![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud) -->
 
-<!-- Being Pro Table
+ Being Pro Table
 <table>
 	<tr>
 		<td>
@@ -346,14 +346,14 @@ END_SECTION:activity-->
 	      	<img src="https://media.giphy.com/media/i0EYHNbxPMeSWznjSH/giphy.gif" alt="Coder GIF" width="150" height="100"><img src="https://media.giphy.com/media/fkTFkvYVz5dmg/giphy.gif" alt="Coder GIF" width="100" height="100">
 	</td>
 	</tr>
-</table> -->
+</table> 
 
 <!-- Image Animation -->
- <!-- <img src="https://media.giphy.com/media/2WUkAVDzuQbUA/giphy.gif" alt="Coder GIF" width="150" height="100"> -->
+  <img src="https://media.giphy.com/media/2WUkAVDzuQbUA/giphy.gif" alt="Coder GIF" width="150" height="100">
 
 
-<!-- Coding Going On Image File
-   <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /> -->
+Coding Going On Image File
+   <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
    
 <!-- Github Profile Trophy
 <p align="center">
