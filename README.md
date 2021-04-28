@@ -251,6 +251,8 @@
 [banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/presentation/dark-theme-wide.png -->
 <!-- End Of The Marketing Site -->
 
+<img src="https://github.com/shahzaibfardeen/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Shahzaib Fardeen WakaTime Activity"/>
 
 <!-- Updated Github Stats -->
 ## 📊 Github Stats
