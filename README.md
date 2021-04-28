@@ -153,6 +153,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
 <br />
+<br />
 
 <!-- Details / Blog / Recent Table-->
 
@@ -177,12 +178,11 @@ Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Pr
 [sqlite-transform 0.5](https://github.com/simonw/sqlite-transform/releases/tag/0.5) - 2021-03-24
 
 [iam-to-sqlite 0.1](https://github.com/simonw/iam-to-sqlite/releases/tag/0.1) - 2021-03-24
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
-</td><td valign="top" width="34%">
+<!-- Recent Releases Ends -->
+
 
 ### On My Blog
-<!-- blog starts -->
+<!-- Blog Starts -->
 [Weeknotes: Vaccinate The States, and how I learned that returning dozens of MB of JSON works just fine these days](http://simonwillison.net/2021/Apr/26/vaccinate-the-states/) - 2021-04-26
 
 [Weeknotes: The Aftermath](http://simonwillison.net/2021/Apr/18/weeknotes-the-aftermath/) - 2021-04-18
@@ -192,7 +192,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Animated choropleth of vaccinations by US county](http://simonwillison.net/2021/Apr/4/animated-choropleth-of-vaccinations-by-us-county/) - 2021-04-04
 
 [Weeknotes: SpatiaLite 5, Datasette on Azure, more CDC vaccination history](http://simonwillison.net/2021/Mar/28/weeknotes/) - 2021-03-28
-<!-- blog ends -->
+<!-- Blog Ends -->
 
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
@@ -212,8 +212,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
-
-<a href="https://github.com/shahzaibfardeen/shahzaibfardeen/actions"><img src="https://github.com/shahzaibfardeen/shahzaibfardeen/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 <!--End Part Of The Table -->
 
 
