@@ -38,17 +38,21 @@
   </a>
 </p>
 
+
 <!-- Skyline
 <div align="center"><table>
   <tr><th><a href="https://skyline.github.com/arshdeepsahni/2020"><img width="1000px" src="https://user-images.githubusercontent.com/56549294/109688463-4b205900-7baa-11eb-9a16-e8df056b2e14.gif"></a></th></tr>
 </table></div> -->
 
+
 <!-- Github Streaks Stats - Black & Orange Combo 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br> -->
 
+
 <!-- Main Content Of The Page -->
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
+
 
 **Here Are Some Of The Ideas To Get You Started :** 
 - 🔭 I’m Currently Working On `Full Stack Web Developer.` <br>
@@ -58,6 +62,7 @@
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
 - 📫 How To Reach Me: Mail Me : @ S4shahzaib73@gmail.com <br>
 <br>
+
 
 <!-- ## 📘 My top open source projects For Later Purpose 
 <table>
@@ -104,13 +109,6 @@
 	<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </p>
 
-<!-- Web Sites Icons -->
-### Connect With Me On :
-<img align="left" alt="shahzaibfardeen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="left" alt="shahzaibfardeen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
 
 <!-- Social Sites & Connecting -->
 ### Connect With Me On - 
@@ -130,13 +128,10 @@
 [<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />]() 
 [<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />]()
 
-<!-- Ur Own Discord Channel -->
-<!-- [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
-
 <br />
 
 
-<!-- Old Languages Tools Bar
+<!-- Old Languages Tools Bar now -->
 ### Languages And Tools :
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -154,7 +149,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
--->
+
 
 
 <!-- New Languages & Tools Bar -->
