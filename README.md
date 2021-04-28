@@ -155,8 +155,9 @@
 <br />
 <br />
 
-<!-- Details / Blog / Recent Table-->
 
+<!-- Details / Blog / Recent Table-->
+<br>
 Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow @shahzaibfardeen on Twitter](https://twitter.com/shahzaibfardee).
 <table><tr><td valign="top" width="33%">
 
@@ -237,7 +238,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 
 <!-- Updated Github Stats -->
-## 📊 Github Stats
+## 📊 Github Statistics
 
 <!-- <details> 
   <summary>💻 GitHub Profile Stats</summary>
