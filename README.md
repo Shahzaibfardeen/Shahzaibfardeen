@@ -1,17 +1,18 @@
 <!-- First Main Heading -->
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shahzaib Fardeen <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 
+<!-- Brief Text About Myself -->
 <h4 align="center"> Medi Data - Rave Developer @ IQVIA | I'm An Full Stack Web & Application Developer | </h4>
 <h4 align="center"> Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. </h4>
 
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<!-- Jus Simple Basic Coding Standard Image 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<!-- Jus Simple Basic Coding Standard Image -->
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!-- Coder Image & Profile Visit Tags 
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250"> -->
+<!-- Coder Image & Profile Visit Tags -->
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="Coder GIF" width="300" height="250">
 
 <br />
 <br />
