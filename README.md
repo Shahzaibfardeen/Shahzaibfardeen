@@ -215,17 +215,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 [My Site ReUpdated- Portfolio](https://shahzaibfardeen.github.io/My_Site_Remake/) - 14-09-2020
 
-[My Site - Portfolio](https://shahzaibfardeen.github.io/My_Site/) - 14-09-2020
-
-[Date & Time](https://shahzaibfardeen.github.io/Date_-_Time/) - 14-09-2020
-
 [Shoppx Web Application](https://shahzaibfardeen.github.io/Syberstore_Shoppx/) - 14-08-2020
-
-[Image Search](https://shahzaibfardeen.github.io/Image-Search/) - 22-07-2020
-
-[Contact Form](https://shahzaibfardeen.github.io/Contact-Form//) - 03-06-2020
-
-[1st Website - Resume](https://shahzaibfardeen.github.io/Resume/) - 17-05-2020
 
 <!-- Ends -->
 </td></tr></table>
