@@ -159,7 +159,7 @@
 <!-- Details / Blog / Recent Table-->
 <br>
 
-Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow @shahzaibfardeen on Twitter](https://twitter.com/shahzaibfardeen).
+Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow Me On Twitter](https://twitter.com/shahzaibfardeen).
 <table><tr><td valign="top" width="33%">
 
 
@@ -168,7 +168,7 @@ Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Pr
 
 [For Online CDN - Click This](https://github.com/Syber-Lab/Sybrenium)
 
-<br>
+<br> <br>
 
 [Border Classes](https://github.com/Syber-Lab/Sybrenium) - 07-03-2021
 
@@ -180,7 +180,7 @@ Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Pr
 
 [Preview: ( For Code Click This & View Page Source )](https://yaseen549.github.io/sybrenium-code-review/) - Resent Updates - 29-04-2021
 
-More[Recent Releases](https://github.com/Syber-Lab/Sybrenium)
+More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
 <!-- Recent Releases Ends -->
 </td><td valign="top" width="33%">
@@ -219,6 +219,7 @@ More[Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
 [Shoppx Web Application](https://shahzaibfardeen.github.io/Syberstore_Shoppx/) - 14-08-2020
 
+<br>
 
 More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Recent%20Projects.md)
 
