@@ -188,15 +188,11 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
 ### On My Blog
 <!-- Blog Starts -->
-[Weeknotes: Vaccinate The States, and how I learned that returning dozens of MB of JSON works just fine these days](http://simonwillison.net/2021/Apr/26/vaccinate-the-states/) - 2021-04-26
 
-[Weeknotes: The Aftermath](http://simonwillison.net/2021/Apr/18/weeknotes-the-aftermath/) - 2021-04-18
 
-[Porting VaccinateCA to Django](http://simonwillison.net/2021/Apr/12/porting-vaccinateca-to-django/) - 2021-04-12
+[Robert Wade](https://medium.com/@robewawebdesign/how-100-days-of-code-changed-my-life-37cdc891db73) - 25-08-2018
 
-[Animated choropleth of vaccinations by US county](http://simonwillison.net/2021/Apr/4/animated-choropleth-of-vaccinations-by-us-county/) - 2021-04-04
 
-[Weeknotes: SpatiaLite 5, Datasette on Azure, more CDC vaccination history](http://simonwillison.net/2021/Mar/28/weeknotes/) - 2021-03-28
 <!-- Blog Ends -->
 </td><td valign="top" width="33%">
 
