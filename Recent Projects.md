@@ -31,8 +31,8 @@
 * **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.11a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.11a0) - ([22 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-04-26
 <br>Django app for building dashboards using raw SQL queries
 
-1. **[1st Website - Resume](https://shahzaibfardeen.github.io/Resume/) - **: [0.1] ([1.2 Release]) - 17-05-2020
-
+1. [Resume](https://shahzaibfardeen.github.io/Resume/) : [0.0.1] ([1.2 Release]) - 17-05-2020
+    <br> My First Project Build By Using HTML5 & Css3
 
 
 <!-- Ends -->
