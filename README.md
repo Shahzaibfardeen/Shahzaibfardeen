@@ -264,11 +264,11 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 <!--START_SECTION:activity-->
 
-1. ❗️  Opened issue [#1003](https://github.com/albertlauncher/albert/issues/1003) in [albertlauncher/albert](https://github.com/albertlauncher/albert)
-2. 🎉 Merged PR [#97](https://github.com/DenverCoder1/jct-discord-bot/pull/97) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. ❗️  Closed issue [#96](https://github.com/DenverCoder1/jct-discord-bot/issues/96) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. 💪 Opened PR [#97](https://github.com/DenverCoder1/jct-discord-bot/pull/97) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 🗣 Commented on [#96](https://github.com/DenverCoder1/jct-discord-bot/issues/96) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. ❗️  Opened Issue [#001](https://github.com/Syber-Lab/Sybrenium/issues?q=label%3A%22good+first+issue%22+is%3Aissue+is%3Aopen) in [Syber-Lab/Sybrenium](https://github.com/Syber-Lab)
+2. 🎉 Merged PR [#97]
+3. ❗️  Closed issue [#000](https://github.com/Syber-Lab/syberstar-minified) in [Syberstar Minified](https://github.com/Syber-Lab/syberstar-minified)
+4. 💪 Opened PR [#97]
+5. 🗣 Commented on [#96]
 
 <!-- END SECTION :Activity -->
 
