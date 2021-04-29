@@ -1,6 +1,9 @@
 ### Recent Projects
 <!-- Starts -->
 
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.11a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.11a0) - ([22 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-04-26
+<br>Django app for building dashboards using raw SQL queries
+
 [BirthDay Card](https://shahzaibfardeen.github.io/Hapie_Bday_Sadu/) - 17-04-2021
 
 [Restaurant App Using BootStrap 4](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/) - 10-04-2021
@@ -25,6 +28,11 @@
 
 [Contact Form](https://shahzaibfardeen.github.io/Contact-Form//) - 03-06-2020
 
-[1st Website - Resume](https://shahzaibfardeen.github.io/Resume/) - 17-05-2020
+* **[django-sql-dashboard](https://github.com/simonw/django-sql-dashboard)**: [0.11a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.11a0) - ([22 releases](https://github.com/simonw/django-sql-dashboard/releases)) - 2021-04-26
+<br>Django app for building dashboards using raw SQL queries
+
+1. **[1st Website - Resume](https://shahzaibfardeen.github.io/Resume/) - **: [0.1] ([1.2 Release]) - 17-05-2020
+
+
 
 <!-- Ends -->
