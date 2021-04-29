@@ -174,10 +174,11 @@ Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Pr
 
 [Font Style Classes & Cards](https://github.com/Syber-Lab/Sybrenium) - 10-03-2021
 
+<br>
+
 [Preview: ( For Code Click This & View Page Source )](https://yaseen549.github.io/sybrenium-code-review/) - Resent Updates - 29-04-2021
 
-<br>
-More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
+More[Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
 <!-- Recent Releases Ends -->
 </td><td valign="top" width="33%">
