@@ -164,23 +164,19 @@ Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Pr
 
 ### Recent Releases Framework
 <!-- recent_releases starts -->
-[django-sql-dashboard 0.11a0](https://github.com/simonw/django-sql-dashboard/releases/tag/0.11a0) - 2021-04-26
+[Online CDN](<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Syber-Lab/Sybrenium@b3baa6cc891a2f05509e004ea588efee7545bdbf/dist/css/main.css">)
+--
 
-[json-post 0.2](https://github.com/simonw/json-post/releases/tag/0.2) - 2021-04-11
+[Border Classes](https://github.com/Syber-Lab/Sybrenium) - 07-03-2021
 
-[airtable-export 0.7.1](https://github.com/simonw/airtable-export/releases/tag/0.7.1) - 2021-04-09
+[Line Break Classes & Color Classes](https://github.com/Syber-Lab/Sybrenium) - 20-03-2021
 
-[datasette 0.56](https://github.com/simonw/datasette/releases/tag/0.56) - 2021-03-29
+[Font Style Classes & Cards](https://github.com/Syber-Lab/Sybrenium) - 10-03-2021
 
-[datasette-publish-azure 0.1a0](https://github.com/simonw/datasette-publish-azure/releases/tag/0.1a0) - 2021-03-28
+**[Preview: ( For Code Click This & View Page Source )]**(https://yaseen549.github.io/sybrenium-code-review/) - Resent Updates - 29-04-2021
 
-[datasette-publish-vercel 0.9.3](https://github.com/simonw/datasette-publish-vercel/releases/tag/0.9.3) - 2021-03-26
+More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
-[sqlite-transform 0.5](https://github.com/simonw/sqlite-transform/releases/tag/0.5) - 2021-03-24
-
-[iam-to-sqlite 0.1](https://github.com/simonw/iam-to-sqlite/releases/tag/0.1) - 2021-03-24
-
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 <!-- Recent Releases Ends -->
 </td><td valign="top" width="33%">
 
