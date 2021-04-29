@@ -263,13 +263,14 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
   <br/>
 
 <!--START_SECTION:activity-->
-<!--
-1. ❗️ Opened issue [#1003](https://github.com/albertlauncher/albert/issues/1003) in [albertlauncher/albert](https://github.com/albertlauncher/albert)
+
+1. ❗️  Opened issue [#1003](https://github.com/albertlauncher/albert/issues/1003) in [albertlauncher/albert](https://github.com/albertlauncher/albert)
 2. 🎉 Merged PR [#97](https://github.com/DenverCoder1/jct-discord-bot/pull/97) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. ❗️ Closed issue [#96](https://github.com/DenverCoder1/jct-discord-bot/issues/96) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+3. ❗️  Closed issue [#96](https://github.com/DenverCoder1/jct-discord-bot/issues/96) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 4. 💪 Opened PR [#97](https://github.com/DenverCoder1/jct-discord-bot/pull/97) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 5. 🗣 Commented on [#96](https://github.com/DenverCoder1/jct-discord-bot/issues/96) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-END_SECTION:activity-->
+
+<!-- END SECTION :Activity -->
 
 </details>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
