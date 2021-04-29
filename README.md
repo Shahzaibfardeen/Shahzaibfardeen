@@ -165,7 +165,8 @@ Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Pr
 
 ### Recent Releases Framework
 <!-- recent_releases starts -->
-[Online CDN](<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Syber-Lab/Sybrenium@b3baa6cc891a2f05509e004ea588efee7545bdbf/dist/css/main.css">)
+[Online CDN] - [<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Syber-Lab/Sybrenium@b3baa6cc891a2f05509e004ea588efee7545bdbf/dist/css/main.css">]
+<br>
 
 [Border Classes](https://github.com/Syber-Lab/Sybrenium) - 07-03-2021
 
@@ -175,6 +176,7 @@ Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Pr
 
 [Preview: ( For Code Click This & View Page Source )](https://yaseen549.github.io/sybrenium-code-review/) - Resent Updates - 29-04-2021
 
+<br>
 More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
 <!-- Recent Releases Ends -->
