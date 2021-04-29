@@ -217,6 +217,9 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 
 [Shoppx Web Application](https://shahzaibfardeen.github.io/Syberstore_Shoppx/) - 14-08-2020
 
+
+More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Recent%20Projects.md)
+
 <!-- Ends -->
 </td></tr></table>
 <!--End Part Of The Table -->
