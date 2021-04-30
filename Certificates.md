@@ -18,6 +18,7 @@
        <br>
        <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/4. Html, Css & Js For Web Developers.jpg"  width="200" height="150"/>
         <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/5. Front End Web UI Framework & Tools - Bootstrap 4.jpg"  width="200" height="150"/>
+         <br>
          <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/6. Responsive Website Basic Code With Html, Css & JavaScript.jpg"  width="200" height="150"/>
   </p>
 
@@ -27,6 +28,7 @@
  <p align="center"> 
  </p>
  
+ <br>
  
  
 <h2>⭐ Symposium Won Certificates ⭐</h2>
