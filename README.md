@@ -14,7 +14,7 @@
 
 
 <!-- My Portfolio Bars -->
-[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>]()(./images/live.gif)
+[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>]()
 
 
 
