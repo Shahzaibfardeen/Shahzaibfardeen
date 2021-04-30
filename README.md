@@ -14,7 +14,7 @@
 
 
 <!-- My Portfolio Bars -->
-[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google" />]()<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="" width="23" height="23">
+
 
 
 <!-- Profile Views -->
