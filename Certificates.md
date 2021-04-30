@@ -11,5 +11,9 @@
 
 <h2>⭐ Certificates ⭐</h2>
  <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="150" height="130"/>
+  <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="100" height="100"/>
+   <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="150" height="150"/>
+    <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="200" height="200"/>
+     <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="250" height="250"/>
+      <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="300" height="300"/>
   </p>
