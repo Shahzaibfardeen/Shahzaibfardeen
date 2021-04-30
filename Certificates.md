@@ -11,5 +11,10 @@
 
 <h2>⭐ Certificates ⭐</h2>
  <p align="center"> 
-    <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="200" height="150"/>
+    <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/1. Programming Fundamentals.jpg"  width="200" height="150"/>
+     <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/2. Introduction To HTML 5.jpg"  width="200" height="150"/>
+      <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/3. Programming Foundation With JavaScript, Html & Css.jpg"  width="200" height="150"/>
+       <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/4. Html, Css & Js For Web Developers.jpg"  width="200" height="150"/>
+        <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/5. Front End Web UI Framework & Tools - Bootstrap 4.jpg"  width="200" height="150"/>
+         <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/6. Responsive Website Basic Code With Html, Css & JavaScript.jpg"  width="200" height="150"/>
   </p>
