@@ -12,5 +12,5 @@
 <h2>⭐ Certificates ⭐</h2>
  <p align="center"> 
     <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="200" height="150"/>
-     <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="250" height="200"/>
+     <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="230" height="180"/>
   </p>
