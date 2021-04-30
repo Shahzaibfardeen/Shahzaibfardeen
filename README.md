@@ -355,7 +355,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 </p> -->
 
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="150" height="100"/>
+  <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/Certificate.jpg"  width="150" height="130"/>
 
   <a href="https://www.credly.com/earner/earned/badge/93bb1ef0-7d5d-4a0b-bd96-9b7b542c1677/"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/cybersecurity-essentials.png" alt="grafana" width="100" height="100"/>
 
