@@ -13,7 +13,6 @@
 
  <p align="center"> 
     <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/1. Programming Fundamentals.jpg"  width="200" height="150"/>
-     1. Programming Fundamentals
      <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/2. Introduction To HTML 5.jpg"  width="200" height="150"/>
       <a href="https://www.coursera.org/account/accomplishments/verify/U4X4F8M7LBLF"><img src="Certificates/3. Programming Foundation With JavaScript, Html & Css.jpg"  width="200" height="150"/>
        <br>
