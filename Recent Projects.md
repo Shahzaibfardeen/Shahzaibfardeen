@@ -1,4 +1,4 @@
-### Recent Projects
+### <h1> Recent Projects </h1>
 <!-- Starts -->
 
 13. **[BirthDay Card](https://shahzaibfardeen.github.io/Hapie_Bday_Sadu/)** - 17-04-2021
