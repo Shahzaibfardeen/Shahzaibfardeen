@@ -19,11 +19,14 @@
 
 [Date & Time](https://shahzaibfardeen.github.io/Date_-_Time/) - 14-09-2020
 
-[Shoppx Web Application](https://shahzaibfardeen.github.io/Syberstore_Shoppx/) - 14-08-2020
+4. **[Shoppx Web Application](https://shahzaibfardeen.github.io/Syberstore_Shoppx/)** - 14-08-2020
+    <br> Shopping WebSite - ECommerce Website Build To Buy & Deal The Products
 
-[Image Search](https://shahzaibfardeen.github.io/Image-Search/) - 22-07-2020
+3. **[Image Search](https://shahzaibfardeen.github.io/Image-Search/)** - 22-07-2020
+    <br> A Normal Search Engine Which Search All Types Of Images With The Help Of API
 
-[Contact Form](https://shahzaibfardeen.github.io/Contact-Form//) - 03-06-2020
+2. **[Contact Form](https://shahzaibfardeen.github.io/Contact-Form//)** - 03-06-2020
+   <br> A Basic Contact Form Using Html5 & Css3
 
 1. **[Resume](https://shahzaibfardeen.github.io/Resume/)** : [0.0.1] [1.2 Release] - 17-05-2020
     <br> My First Project Build By Using HTML5 & Css3
