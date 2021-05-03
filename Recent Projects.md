@@ -1,6 +1,4 @@
-<p text-align="center">
 ###<h1> My Projects </h1>
-</p>
 <!-- Starts -->
 
 * **[Ristorante_Con_Fusion - Restaurant App](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/)** - 28-04-2021
