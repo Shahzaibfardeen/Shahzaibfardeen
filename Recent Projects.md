@@ -12,6 +12,9 @@
 
 10. **[Single Page Restaurant Web App](https://shahzaibfardeen.github.io/Chinese-Single_Landing_Webpage/index.html)** - 05-02-2021
     <br> Single Page Restuarant WebSite - Made With Html5, Css3, JavaScript, JQuery & Mongo DB
+    
+10. **[Phone Book](https://shahzaibfardeen.github.io/PhoneBook/)** -
+    <br> Phone Book which end user can add their numbers & can be deleted easily 
 
 9. **[New Application - Single Landing Page](https://shahzaibfardeen.github.io/Syberstar-Application/)** - 10-11-2020
     <br> New Brand Launching Any Things - This Websites Help To Improve Their Productivity
