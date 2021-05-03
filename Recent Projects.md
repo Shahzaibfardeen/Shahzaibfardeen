@@ -1,7 +1,7 @@
 ### <h1> Recent Projects </h1>
 <!-- Starts -->
 
-* **[Restaurant App Using BootStrap 4](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/)** - 28-04-2021
+* **[Ristorante_Con_Fusion - Restaurant App](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/)** - 28-04-2021
     <br> Responsive & Animated Restaurant Website With Multi Pages 
 
 * **[BirthDay Card](https://shahzaibfardeen.github.io/Hapie_Bday_Sadu/)** - 17-04-2021
@@ -16,7 +16,7 @@
 * **[Phone Book](https://shahzaibfardeen.github.io/PhoneBook/)** - 07-02-2021
     <br> Phone Book which end user can add their numbers & can be deleted easily 
 
-* **[New Application - Single Landing Page](https://shahzaibfardeen.github.io/Syberstar-Application/)** - 27-01-2021
+* **[New Web Application - Single Landing Page](https://shahzaibfardeen.github.io/Syberstar-Application/)** - 27-01-2021
     <br> New Brand Launching Any Things - This Websites Help To Improve Their Productivity
 
 * **[My Site ReUpdated- Portfolio](https://shahzaibfardeen.github.io/My_Site_Remake/)** - 19-09-2020
