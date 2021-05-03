@@ -1,4 +1,4 @@
-<p=center>
+<p text-align="center">
 ### <h1> My Projects </h1>
 </p>
 <!-- Starts -->
