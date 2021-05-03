@@ -1,6 +1,9 @@
 <h1> My Projects </h1>
 <!-- Starts -->
 
+* **[My_Deen_Dairy](https://github.com/Shahzaibfardeen/My_Deen_Dairy)** - 04-05-2021
+    <br> My_Deen_Dairy - Consist of all my related documents which I recite on a daily basic ( Namaz, Quran, Zikr, Duas Etc )
+
 * **[Ristorante_Con_Fusion - Restaurant App](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/)** - 28-04-2021
     <br> Responsive & Animated Restaurant Website With Multi Pages.
 
