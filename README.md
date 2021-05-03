@@ -200,21 +200,21 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 ### Recent Projects
 <!-- Starts -->
 
+[Ristorante_Con_Fusion - Restaurant App](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/) - 28-04-2021
+
 [BirthDay Card](https://shahzaibfardeen.github.io/Hapie_Bday_Sadu/) - 17-04-2021
 
-[Restaurant App Using BootStrap 4](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/) - 10-04-2021
+[Tic Tac Toe - Game](https://shahzaibfardeen.github.io/Tic_Tac_Toe/) - 12-03-2021
 
-[Tic Tac Toe - Game](https://shahzaibfardeen.github.io/Tic_Tac_Toe/) - 20-03-2021
+[Single Page Restaurant Web App](https://shahzaibfardeen.github.io/Chinese-Single_Landing_Webpage/index.html) - 10-03-2021
 
-[Single Page Restaurant Web App](https://shahzaibfardeen.github.io/Chinese-Single_Landing_Webpage/index.html) - 05-02-2021
+[New Application - Single Landing Page](https://shahzaibfardeen.github.io/Syberstar-Application/) - 27-01-2021
 
-[New Application - Single Landing Page](https://shahzaibfardeen.github.io/Syberstar-Application/) - 10-11-2020
+[Animated User Login Form](https://shahzaibfardeen.github.io/Login-Form/) - 01-12-2020
 
-[Animated User Login Form](https://shahzaibfardeen.github.io/Login-Form/) - 14-09-2020
+[My Site ReUpdated- Portfolio](https://shahzaibfardeen.github.io/My_Site_Remake/) - 19-09-2020
 
-[My Site ReUpdated- Portfolio](https://shahzaibfardeen.github.io/My_Site_Remake/) - 14-09-2020
-
-[Shoppx Web Application](https://shahzaibfardeen.github.io/Syberstore_Shoppx/) - 14-08-2020
+[Shoppx Web Application](https://shahzaibfardeen.github.io/Syberstore_Shoppx/) - 21-10-2020
 
 <br>
 
