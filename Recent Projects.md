@@ -1,6 +1,9 @@
 <h1> My Projects </h1>
 <!-- Starts -->
 
+* **[Password Generator](https://shahzaibfardeen.github.io/Password_Generator/)** - 06-05-2021
+    <br> Generates password according to the End Users requirements.
+
 * **[Reactions Time - Game](https://shahzaibfardeen.github.io/Reactions_Time---Game/)** - 05-05-2021
     <br> Reaction_Time_Game - It's a game where you Test your Reactions Time. Click on the Box And Circles as quickly as you can.
 
