@@ -65,7 +65,7 @@
 <br>
 
 
-## 📘 My top open source projects For Later Purpose 
+<!-- ## 📘 My top open source projects For Later Purpose 
 <table>
   <thead align="center">
     <tr border: none;>
@@ -101,7 +101,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
 <!-- Find Me On The Web -->
@@ -345,7 +345,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud) -->
 
 
-<!-- Github Profile Trophy
+Github Profile Trophy
 <p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
- </p> -->
+ </p>
