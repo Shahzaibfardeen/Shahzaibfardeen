@@ -345,8 +345,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud) -->
 
 
-##GitHub Profile Trophy
-
+<!-- ##GitHub Profile Trophy
 <p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
- </p>
+ </p> -->
