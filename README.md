@@ -195,7 +195,7 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
 [My_Deen_Dairy](https://github.com/Shahzaibfardeen/My_Deen_Dairy) - 04-05-2021
 
-[100 Days Of Code] - Yet To Start (Want To Collabrate With Me)
+[100 Days Of Code] -  Yet To Start  (Want To Collabrate With Me) - Python / JavaScript
 
 
 <!-- Blog Ends -->
