@@ -1,6 +1,9 @@
 <h1> My Projects </h1>
 <!-- Starts -->
 
+* **[Beautiful Dua's](https://shahzaibfardeen.github.io/Beautiful_Duas/)** - 09-05-2021
+    <br> A simple message generator for Ramadan Dua's made with JavaScript, Html, & Css .
+
 * **[Password Generator](https://shahzaibfardeen.github.io/Password_Generator/)** - 06-05-2021
     <br> Generates password according to the End Users requirements.
 
