@@ -217,7 +217,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 <div align="center">
 
 [![][logo-url]][repo-url]  
-**Tailwind CSS Components**  
+**Tic Tac Toe - Game**  
 
 [ [See repo ↗︎][repo-url] ]
 </div>
@@ -228,7 +228,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 [repo-url]: https://github.com/Shahzaibfardeen
 
-[banner-url]: <img src="images/TicTacToe.png"  width="" height=""/>
+[banner-url]: <><img src="images/TicTacToe.png"  width="" height=""/>
 <!-- End Of The New Project Site -->
 <p align="center"> 
   </p>
