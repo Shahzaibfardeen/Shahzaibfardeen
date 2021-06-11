@@ -228,10 +228,9 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 [repo-url]: https://github.com/Shahzaibfardeen/Tic_Tac_Toe
 
-[banner-url]: https://camo.githubusercontent.com/1cd7c1aaf170a8402bdb91ccb5c22f12a194678a48de81f7fc2cc1b39611beb3/68747470733a2f2f692e696d6775722e636f6d2f4b356b396f756a2e706e67
+[banner-url]: <a href="https://shahzaibfardeen.github.io/Tic_Tac_Toe/index.html"><img src="https://i.imgur.com/K5k9ouj.png"/></a>
 <!-- End Of The New Project Site -->
-<p align="center"> 
-  </p>
+
 
 
 <!-- New Table With Multiple Slides -->
