@@ -222,13 +222,16 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 [ [See repo ↗︎][repo-url] ]
 </div>
 
-[![][banner-url]][repo-url]  
+<!-- For Future Use For Banners URL.
+[![][banner-url]][repo-url]
+[banner-url]: 
+-->
 
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo.svg
 
 [repo-url]: https://github.com/Shahzaibfardeen/Tic_Tac_Toe
 
-[banner-url]: <a href="https://shahzaibfardeen.github.io/Tic_Tac_Toe/index.html"><img src="https://i.imgur.com/K5k9ouj.png"/></a>
+<a href="https://shahzaibfardeen.github.io/Tic_Tac_Toe/index.html"><img src="https://i.imgur.com/K5k9ouj.png"/ "height=200" width="200"></a>
 <!-- End Of The New Project Site -->
 
 
