@@ -217,8 +217,10 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 <div align="center">
 [![][logo-url]][repo-url]  
 **Tailwind CSS Components**  
+
 [ [See repo ↗︎][repo-url] ]
 </div>
+
 [![][banner-url]][repo-url]  
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo.svg
 [repo-url]: https://github.com/saadeghi/daisyui
@@ -226,7 +228,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 <!-- End Of The Marketing Site -->
 
 <!-- New Table With Multiple Slides -->
-## My Repositories at Glance
+<!--## My Repositories at Glance
 <table>
   <tr>
     <th>Machine Learning</th>
@@ -272,7 +274,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
   <tr>
 </table>
 </div>
-<div align="center">
+<div align="center">-->
 <!-- End Of The Table -->
 
 <!-- Updated Github Stats -->
