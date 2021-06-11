@@ -214,24 +214,66 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 
 <!-- New App / Web Site Release Site -->
-<!-- <div align="center">
-	
+<div align="center">
 [![][logo-url]][repo-url]  
-
 **Tailwind CSS Components**  
 [ [See repo ↗︎][repo-url] ]
-  
-
 </div>
-
 [![][banner-url]][repo-url]  
-
-
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo.svg
 [repo-url]: https://github.com/saadeghi/daisyui
-[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/presentation/dark-theme-wide.png -->
+[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/presentation/dark-theme-wide.png 
 <!-- End Of The Marketing Site -->
 
+<!-- New Table With Multiple Slides -->
+## My Repositories at Glance
+<table>
+  <tr>
+    <th>Machine Learning</th>
+    <th>Computer Vision</th>
+  </tr>
+  <tr>
+    <td> 
+      <ul>
+        <li><a target="_blank" href = "https://github.com/venugopalkadamba/AgriAI_WebApp"><i>AgriAI WebApp</i></a></li>
+        <li><a target="_blank" href = "https://github.com/venugopalkadamba/Multi_Disease_Predictor"><i>Multi Disease Predictor</i></a></li> 
+        <li><a target="_blank" href = "https://github.com/venugopalkadamba/Image-Blur-Detection"><i>Image Blur Detection using Machine Learning</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App"><i>Diabetes Predictor</i></a></li>
+      </ul> 
+    </td>
+    <td>
+      <ul>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system"><i>Face Verification based Attendance System</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Emotion_Recognition"><i>Face Emotion Recogniton</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>American Sign Language Detection</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login"><i>Social Media WebApp with Face Verification Login</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Mask_Detector"><i>Face Mask Detector</i></a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>NLP</th>
+    <th>Internships</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project"><i>Text Summarizer using Text Rank Algorithm</i></a> </li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp"><i>SMS Spam Detection</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Fake_News_Detector"><i>Fake News Detector</i></a></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>Data Science Internship at Technocolabs</i></a> </li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship"><i>Data Science and Analytics Internship at The Sparks Foundation</i></a></li>
+      </ul>
+    </td>
+  <tr>
+</table>
+</div>
+<div align="center">
+<!-- End Of The Table -->
 
 <!-- Updated Github Stats -->
 ## 📊 Github Statistics
