@@ -231,7 +231,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 [repo-url]: https://github.com/Shahzaibfardeen/Tic_Tac_Toe
 
-<a href="https://shahzaibfardeen.github.io/Tic_Tac_Toe/index.html"><img src="https://i.imgur.com/K5k9ouj.png" height="400" width="800"/></a>
+<a align="center" href="https://shahzaibfardeen.github.io/Tic_Tac_Toe/index.html"><img src="https://i.imgur.com/K5k9ouj.png" height="400" width="800"/></a>
 <!-- End Of The New Project Site -->
 
 
