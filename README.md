@@ -226,10 +226,14 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo.svg
 
-[repo-url]: https://github.com/saadeghi/daisyui
-
+[repo-url]: https://github.com/Shahzaibfardeen
+		<img src="images/TicTacToe.png"  width="200" height="150"/>
 [banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/presentation/dark-theme-wide.png 
-<!-- End Of The Marketing Site -->
+<!-- End Of The New Project Site -->
+
+<p align="center"> 
+  </p>
+
 
 <!-- New Table With Multiple Slides -->
 <!--## My Repositories at Glance
@@ -280,6 +284,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 </div>
 <div align="center">-->
 <!-- End Of The Table -->
+
 
 <!-- Updated Github Stats -->
 ## 📊 Github Statistics
