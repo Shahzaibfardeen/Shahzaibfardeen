@@ -213,15 +213,6 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 <!--End Part Of The Table -->
 
 
-<!-- New App / Web Site Release Site -->
-<div align="center">
-
-[![][logo-url]][repo-url]  
-**Tic Tac Toe - Game**  
-
-[ [See repo ↗︎][repo-url] ]
-</div>
-
 <!-- New Table With Multiple Slides -->
 <!--## My Repositories at Glance
 <table>
