@@ -34,7 +34,7 @@
 * **[New Web Application - Single Landing Page](https://shahzaibfardeen.github.io/Syberstar-Application/)** - 27-01-2021
     <br> New brand launching any things - This websites help to improve their productivity.
 
-* **[My Site ReUpdated- Portfolio](https://shahzaibfardeen.github.io/My_Site_Remake/)** - 19-09-2020
+* **[My Site ReUpdated- Portfolio](https://shahzaibfardeen.github.io/My_Site_Portfolio/)** - 19-09-2020
     <br> My Site Portfolio Remake - Made some small changes.
 
 * **[My Site - Portfolio](https://shahzaibfardeen.github.io/My_Site/)** - 14-12-2020
