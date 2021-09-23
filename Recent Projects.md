@@ -1,7 +1,7 @@
 <h1> My Projects </h1>
 <!-- Starts -->
 
-* **[The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 23-09-2021
+* **[The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)** - 23-09-2021
     <br> ELDO - I started this organization to share knowledge with eachothers. We not only focus on Technical & Technology. We also focus on Soft Skills, Aptitudes & Problem Solving Skills Etc. we all gather to enrich Our Minds. .
 
 * **[Beautiful Dua's](https://shahzaibfardeen.github.io/Beautiful_Duas/)** - 09-05-2021
