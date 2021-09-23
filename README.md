@@ -14,7 +14,7 @@
 
 
 <!-- My Portfolio Bars -->
-[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://shahzaibfardeen.github.io/My_Site_Remake/)
+[<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://shahzaibfardeen.github.io/My_Site_Portfolio/)
 
 
 <!-- Profile Views -->
@@ -202,7 +202,7 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
 [Animated User Login Form](https://shahzaibfardeen.github.io/Login-Form/) - 01-12-2020
 
-[My Site ReUpdated- Portfolio](https://shahzaibfardeen.github.io/My_Site_Remake/) - 19-09-2020
+[My Site - Portfolio](https://shahzaibfardeen.github.io/My_Site_Portfolio/) - 19-09-2020
 
 <br>
 
