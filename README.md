@@ -144,7 +144,7 @@
 <!-- Details / Blog / Recent Table-->
 <br>
 
-Currently Working On [Sybrenium](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow Me On Twitter](https://twitter.com/shahzaibfardeen).
+Currently Working On [Sybrenium](https://github.com/Syber-Lab) &  [Syber-Lab](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow Me On Twitter](https://twitter.com/shahzaibfardeen).
 <table><tr><td valign="top" width="33%">
 
 
