@@ -178,8 +178,8 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 [Robert Wade](https://medium.com/@robewawebdesign/how-100-days-of-code-changed-my-life-37cdc891db73) - 25-08-2018
 
 [My_Deen_Dairy](https://github.com/Shahzaibfardeen/My_Deen_Dairy) - 04-05-2021
-
-[100 Days Of Code] -  Yet To Start  (Want To Collabrate With Me) - Python / JavaScript
+	
+[The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 23-09-2021
 
 
 <!-- Blog Ends -->
@@ -187,6 +187,8 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
 ### Recent Projects
 <!-- Starts -->
+	
+[The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 23-09-2021
 
 [Ristorante_Con_Fusion - Restaurant App](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/) - 28-04-2021
 
@@ -201,8 +203,6 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 [Animated User Login Form](https://shahzaibfardeen.github.io/Login-Form/) - 01-12-2020
 
 [My Site ReUpdated- Portfolio](https://shahzaibfardeen.github.io/My_Site_Remake/) - 19-09-2020
-
-[Shoppx Web Application](https://shahzaibfardeen.github.io/Syberstore_Shoppx/) - 21-10-2020
 
 <br>
 
