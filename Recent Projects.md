@@ -1,11 +1,14 @@
 <h1> My Projects </h1>
 <!-- Starts -->
 
+* **[Profile Card](https://shahzaibfardeen.github.io/Profile_Card/)** - 29-09-2021
+    <br> Animated Profile Card with Colors Combination.
+    
 * **[The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)** - 23-09-2021
-    <br> ELDO - I started this organization to share knowledge with eachothers. We not only focus on Technical & Technology. We also focus on Soft Skills, Aptitudes & Problem Solving Skills Etc. we all gather to enrich Our Minds. .
+    <br> ELDO - I started this organization to share knowledge with eachothers. We not only focus on Technical & Technology. We also focus on Soft Skills, Aptitudes & Problem Solving Skills Etc. we all gather to enrich Our Minds..
 
 * **[Beautiful Dua's](https://shahzaibfardeen.github.io/Beautiful_Duas/)** - 09-05-2021
-    <br> A simple message generator for Ramadan Dua's made with JavaScript, Html, & Css .
+    <br> A simple message generator for Ramadan Dua's made with JavaScript, Html, & Css.
 
 * **[Password Generator](https://shahzaibfardeen.github.io/Password_Generator/)** - 06-05-2021
     <br> Generates password according to the End Users requirements.
