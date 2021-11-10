@@ -56,7 +56,7 @@
 
 **Here Are Some Of The Ideas To Get You Started :** 
 - 🔭 I’m Currently Working On `Full Stack Web Developer.` <br>
-- 🌱 I’m Currently Learning `React & Redux.` <br>
+- 🌱 I’m Currently Learning `Python.` <br>
 - 👯 I’m Looking to Collaborate On `Any Organization OR Teams.` <br>
 - 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization. <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
@@ -180,6 +180,8 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 [My_Deen_Dairy](https://github.com/Shahzaibfardeen/My_Deen_Dairy) - 04-05-2021
 	
 [The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 23-09-2021
+	
+[100_Days_Of_Code](https://github.com/Shahzaibfardeen/100_Days_Of_Code) - 10-11-2021
 
 
 <!-- Blog Ends -->
