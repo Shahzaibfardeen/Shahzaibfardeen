@@ -17,9 +17,6 @@
 
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
 
-	
-[gmail]: mailto:s4shahzaib73@gmail.com
-
 </p>
 
 <!-- Typing Master Picture --> 
