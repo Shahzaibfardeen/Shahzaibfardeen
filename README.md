@@ -19,6 +19,10 @@
 </p>
 
 
+[gmail]: mailto:s4shahzaib73@gmail.com
+[skype]: https://join.skype.com/invite/ydztX7CPKJkZ
+
+
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <br />
