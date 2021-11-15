@@ -16,12 +16,11 @@
 <a href="https://www.linkedin.com/in/shahzaib-fardeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked In" height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
-</p>
 
-
+	
 [gmail]: mailto:s4shahzaib73@gmail.com
-[skype]: https://join.skype.com/invite/ydztX7CPKJkZ
 
+</p>
 
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
