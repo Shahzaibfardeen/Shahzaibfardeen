@@ -7,6 +7,22 @@
 <h4 align="center"> Project Manager & Web Developer @ SyberStar. I Can Also Design & Develope Mobile & Web Games. </h4> 
 
 
+<h1 align="center"> Hi 👋 ! I'm Fardeen </h1>
+<h3 align="center"> Founder CEO at ELDO | Freelancer | Student Developer </h3>
+ 
+<p align="center">
+  <a href="https://github.com/Shahzaibfardeen/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+CEO+at+ELDO;Programmer;Developer"></a>
+</p>
+
+
+<h3 align="left"> Connect with me: </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nikhil-yadav-609435203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-yadav-609435203/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
+</p>
+
+
+
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <br />
@@ -19,10 +35,6 @@
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahzaibfardeen" alt="Shahzaib Fardeen" /> </p>
-
-
-![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=Abuanwar072&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/abuanwar072?logo=GitHub&style=for-the-badge)
 
 
 <!-- Center Social Icons Follow Tabs
