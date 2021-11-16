@@ -122,7 +122,7 @@
 <br />-->
 
 <a href="mailto:s4shahzaib73@gmail.com" title="Gmail">
-  <img align="left" alt="Gmail" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/mail.svg" />
+  <img align="left" alt="Gmail" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/outlook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shahzaib-fardeen/" title="LinkedIN">
   <img align="left" alt="LinkedIN" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -147,8 +147,7 @@
 <a href="https://medium.com/@pritamvr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pritamvr9" height="30" width="40" /></a>
 <a href="/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="#" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/replit.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/replit.svg" alt="ReplIt" height="30" width="40" /></a>
 
 </p>
 
