@@ -2,10 +2,17 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shahzaib Fardeen <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 
 
-<!-- Next Words Slides -->
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Full+Stack+Web+%26+App+Developer;EDC+Programmer+%40+IQVIA;Web+Developer+%40+Syberstar;Founder+%26+CEO+of+ELDO;Linux+Admin)](https://git.io/typing-svg)
+
+<!-- Next Words Slides
 <p align="center" width="70px">
   <a href="https://github.com/Shahzaibfardeen/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+and+CEO+at+ELDO;Web+Developer+@+Syberstar;Developer+@+IQVIA"></a>
-</p>
+</p>-->
 
 
 <!-- Brief Text About Myself -->
