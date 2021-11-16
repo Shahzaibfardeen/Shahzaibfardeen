@@ -1,20 +1,11 @@
 <!-- First Main Heading -->
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shahzaib Fardeen <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 
-<p align="center">
-  <a href="https://github.com/Shahzaibfardeen/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+CEO+at+ELDO;Programmer;Developer;Gamer"></a>
-</p>
 
 <!-- Brief Text About Myself -->
 <h4 align="center"> Medi Data - Rave Developer @ IQVIA | I'm An Full Stack Web & Application Developer | </h4>
-<h4 align="center"> Web Developer @ SyberStar. Founder CEO at ELDO. I Can Also Design & Develope Mobile & Web Games. </h4> 
+<h4 align="center"> Web Developer @ SyberStar. Founder & CEO of ELDO. I Can Also Design & Develope Mobile & Web Games. </h4> 
  
-<h3 align="left"> Connect with me: </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shahzaib-fardeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked In" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
-</p>
 
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
@@ -26,6 +17,10 @@
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahzaibfardeen" alt="Shahzaib Fardeen" /> </p>
+
+<p align="center">
+  <a href="https://github.com/Shahzaibfardeen/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+CEO+at+ELDO;Programmer;Developer;Gamer"></a>
+</p>
 
 
 <!-- Center Social Icons Follow Tabs
@@ -46,7 +41,7 @@
 </p>
 
 
-<!-- Skyline
+<!-- My Skyline Ratio 
 <div align="center"><table>
   <tr><th><a href="https://skyline.github.com/arshdeepsahni/2020"><img width="1000px" src="https://user-images.githubusercontent.com/56549294/109688463-4b205900-7baa-11eb-9a16-e8df056b2e14.gif"></a></th></tr>
 </table></div> -->
@@ -62,7 +57,7 @@
 
 
 **Here Are Some Of The Ideas To Get You Started :** 
-- 🔭 I’m Currently Working On `[100 Days Of Code.]`(https://github.com/Shahzaibfardeen/100_Days_Of_Code) <br>
+- 🔭 I’m Currently Working On `[100 Days Of Code.](https://github.com/Shahzaibfardeen/100_Days_Of_Code)` <br>
 - 🌱 I’m Currently Learning `Python.` <br>
 - 💻 ELDO Website : [EnLift_Development_Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)
 - 👨‍💻 New Portfolio : [Single_Landing_Page](https://shahzaibfardeen.github.io/My_Site_Portfolio/) 
@@ -146,6 +141,15 @@
 <a href="https://medium.com/@pritamvr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pritamvr9" height="30" width="40" /></a>
 <a href="/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="#" height="30" width="40" /></a>
 </p>
+
+
+<h3 align="left"> Connect with me: </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shahzaib-fardeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked In" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
+</p>
+
 
 <!-- Old Languages Tools Bar Big Size -->
 ### 👨‍💻 Languages And Tools :
