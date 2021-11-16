@@ -122,6 +122,19 @@
 
 <br />
 
+<a href="https://www.linkedin.com/in/shahzaib-fardeen/" title="LinkedIN">
+  <img align="left" alt="LinkedIN" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://facebook.com/obrienser/" title="Facebook">
+  <img align="left" alt="Facebook" height="22px" src="https://user-images.githubusercontent.com/50111192/124475263-2df2d580-ddaa-11eb-8c77-fe58223f5360.png" />
+</a>
+<a href="https://stackoverflow.com/story/obrienser" title="Stack Overflow">
+  <img align="left" alt="Stack Overflow" height="22px" src="https://user-images.githubusercontent.com/50111192/127644335-477f90a7-8de3-48a9-8851-60b9d6ae39ea.png" />
+</a>
+<a href="https://www.buymeacoffee.com/obrienser" title="Buy Me A Coffee">
+  <img align="left" alt="Buy Me A Coffee" height="23" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
+</a>
+
 
 <!-- Old Languages Tools Bar Big Size -->
 ### 👨‍💻 Languages And Tools :
