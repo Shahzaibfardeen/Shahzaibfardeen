@@ -136,21 +136,22 @@
 <a href="https://www.buymeacoffee.com/obrienser" title="Buy Me A Coffee">
   <img align="left" alt="Buy Me A Coffee" height="23" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
 </a>
+<br/>
 
 <a href="https://instagram.com/pritam_kr30" target="blank" title="Instagram">
-	<img align="left" alt="Instagram" height="22px" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+	<img align="left" alt="Instagram" height="25" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://twitter.com/pritamkr_" target="blank" title="Twitter">
-	<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="22px" width="40" />
+	<img align="left" alt="Twitter" height="25" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <a href="https://dev.to/@pritamkr_63" target="blank" title="Dev">
-	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@pritamkr_63" height="30" width="40" />
+	<img align="left" alt="@pritamkr_63" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
 </a>
 <a href="https://medium.com/@pritamvr9" target="blank" title="Medium">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pritamvr9" height="25" width="40" />
+	<img align="left" alt="@pritamvr9" height="25" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />
 </a>
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank" title="HackerRank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="25" width="40" />
+	<img align="left" alt="Hacker Rank" height="25" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
 </a>
 </p>
 
