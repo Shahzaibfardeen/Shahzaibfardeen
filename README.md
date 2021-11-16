@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shahzaib-fardeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked In" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <!-- Typing Master Picture --> 
@@ -61,9 +62,9 @@
 
 
 **Here Are Some Of The Ideas To Get You Started :** 
-- 🔭 I’m Currently Working On `Full Stack Web Developer.` <br>
+- 🔭 I’m Currently Working On `100 Days Of Code.` <br>
 - 🌱 I’m Currently Learning `Python.` <br>
-- 👯 I’m Looking to Collaborate On `Any Organization OR Teams.` <br>
+- 👯 I’m Looking to Collaborate On `Any Organization OR Open Source Projects.` <br>
 - 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization. <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
 - 📫 How To Reach Me: Mail Me : @ S4shahzaib73@gmail.com <br>
