@@ -12,15 +12,15 @@
 <br />
 <br />
 
+<p align="center">
+  <a href="https://github.com/Shahzaibfardeen/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+CEO+at+ELDO;Programmer;Developer;Gamer"></a>
+</p>
+
 <!-- My Portfolio Bars -->
 [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://shahzaibfardeen.github.io/My_Site_Portfolio/)
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahzaibfardeen" alt="Shahzaib Fardeen" /> </p>
-
-<p align="center">
-  <a href="https://github.com/Shahzaibfardeen/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+CEO+at+ELDO;Programmer;Developer;Gamer"></a>
-</p>
 
 
 <!-- Center Social Icons Follow Tabs
@@ -57,14 +57,14 @@
 
 
 **Here Are Some Of The Ideas To Get You Started :** 
-- 🔭 I’m Currently Working On `[100 Days Of Code.](https://github.com/Shahzaibfardeen/100_Days_Of_Code)` <br>
-- 🌱 I’m Currently Learning `Python.` <br>
-- 💻 ELDO Website : [EnLift_Development_Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)
-- 👨‍💻 New Portfolio : [Single_Landing_Page](https://shahzaibfardeen.github.io/My_Site_Portfolio/) 
-- 👯 I’m Looking to Collaborate On `Any Organization OR Open Source Projects.` <br>
-- 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization. <br>
+- 🔭 I’m Currently Working On [100 Days Of Code.](https://github.com/Shahzaibfardeen/100_Days_Of_Code) <br>
+- 🌱 I’m Currently Learning `Python & Linux.` <br>
+- 💻 ELDO : [EnLift_Development_Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)
+- 👨‍💻 My Portfolio : [Single_Landing_Page](https://shahzaibfardeen.github.io/My_Site_Portfolio/) 
+- 👯 I’m Looking to Collaborate On `Open Source Projects.` <br>
+- 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Team. <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
-- 📄 Know about my experiences :
+- 📄 Know about my complete Projects : [My_Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Recent%20Projects.md)
 - 📫 How To Reach Me: **S4shahzaib73@gmail.com** <br>
 <br>
 
