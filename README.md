@@ -104,7 +104,7 @@
 
 <!-- Social Sites & Connecting -->
 ### Connect With Me On - 
-
+<!--
 [<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:s4shahzaib73@gmail.com) 
 [<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/shahzaib-fardeen/) 
 [<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />]() 
@@ -119,8 +119,11 @@
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />]()
 [<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />]() 
 [<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />]()
-<br />
+<br />-->
 
+<a href="mailto:s4shahzaib73@gmail.com" title="Gmail">
+  <img align="left" alt="Gmail" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+</a>
 <a href="https://www.linkedin.com/in/shahzaib-fardeen/" title="LinkedIN">
   <img align="left" alt="LinkedIN" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
