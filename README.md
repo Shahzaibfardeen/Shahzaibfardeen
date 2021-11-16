@@ -121,8 +121,7 @@
 -->
 
 <!-- Social Sites -->
-
-<!--<a href="https://linkedin.com/in/pritam-kumar-0ab3431bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-0ab3431bb" height="25" width="40" /></a> -->
+<!-- <a href="https://linkedin.com/in/pritam-kumar-0ab3431bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-0ab3431bb" height="25" width="40" /></a> -->
 
 <a href="https://instagram.com/pritam_kr30" target="blank" title="Instagram">
 	<img align="left" alt="Instagram" height="25" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
@@ -139,7 +138,6 @@
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank" title="HackerRank">
 	<img align="left" alt="Hacker Rank" height="25" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
 </a>
-
 <a href="https://www.linkedin.com/in/shahzaib-fardeen/" title="LinkedIN">
 	<img align="left" alt="LinkedIN" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -154,6 +152,8 @@
 </a>
 </p>
 
+<br/>
+<br/>
 <br/>
 <!-- Old Languages Tools Bar Big Size -->
 ### 👨‍💻 Languages And Tools :
