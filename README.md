@@ -123,10 +123,7 @@
 
 <!-- <a href="https://linkedin.com/in/pritam-kumar-0ab3431bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-0ab3431bb" height="25" width="40" /></a> -->
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="230px" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdan-codes&theme=dark&show_icons=true">
-
-<a href="mailto:s4shahzaib73@gmail.com?subject=Hey%shahzaib,%20From%20Github">
+<a href="mailto:ch.s4shahzaib73@gmail.com?subject=Hey%shahzaib,%20From%20Github">
   <img align="center" alt="Shahzaib's Gmail" width="25px" src="Assets/gmail.png" />
 </a>
 
