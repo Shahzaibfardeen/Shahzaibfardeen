@@ -2,20 +2,22 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shahzaib Fardeen <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 
 
-<!-- Brief Text About Myself -->
-<h4 align="center"> Medi Data - Rave Developer @ IQVIA | I'm An Full Stack Web & Application Developer | </h4>
-<h4 align="center"> Web Developer @ SyberStar. Founder & CEO of ELDO. I Can Also Design & Develope Mobile & Web Games. </h4> 
- 
 <!-- Next Words Slides -->
 <p align="center" width="70px">
   <a href="https://github.com/Shahzaibfardeen/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+and+CEO+at+ELDO;Web+Developer+@+Syberstar;Developer+@+IQVIA"></a>
 </p>
 
 
+<!-- Brief Text About Myself -->
+<h4 align="center"> Medi Data - Rave Developer @ IQVIA | I'm An Full Stack Web & Application Developer | </h4>
+<h4 align="center"> Web Developer @ SyberStar. Founder & CEO of ELDO. I Can Also Design & Develope Mobile & Web Games. </h4> 
+ 
+ 
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <br />
 <br />
+
 
 <!-- My Portfolio Bars -->
 [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://shahzaibfardeen.github.io/My_Site_Portfolio/)
@@ -117,7 +119,6 @@
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />]()
 [<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />]() 
 [<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />]()
-
 <br />
 
 <a href="https://www.linkedin.com/in/shahzaib-fardeen/" title="LinkedIN">
@@ -133,7 +134,7 @@
   <img align="left" alt="Buy Me A Coffee" height="23" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
 </a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><!--Comment--></h3>
 <p align="left">
 <a href="https://dev.to/@pritamkr_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@pritamkr_63" height="30" width="40" /></a>
 <a href="https://twitter.com/pritamkr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritamkr_" height="30" width="40" /></a>
@@ -141,11 +142,6 @@
 <a href="https://instagram.com/pritam_kr30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pritam_kr30" height="30" width="40" /></a>
 <a href="https://medium.com/@pritamvr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pritamvr9" height="30" width="40" /></a>
 <a href="/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="#" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left"> Connect with me: </h3>
-<p align="left">
 <a href="https://www.linkedin.com/in/shahzaib-fardeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked In" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.hackerrank.com/justnikhil?hr_r=1" height="30" width="40" /></a>
