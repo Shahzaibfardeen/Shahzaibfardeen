@@ -123,10 +123,6 @@
 
 <!-- <a href="https://linkedin.com/in/pritam-kumar-0ab3431bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-0ab3431bb" height="25" width="40" /></a> -->
 
-<a href="mailto:ch.s4shahzaib73@gmail.com?subject=Hey%shahzaib,%20From%20Github">
-  <img align="center" alt="Shahzaib's Gmail" width="25px" src="Assets/gmail.png" />
-</a>
-
 <a href="https://www.instagram.com/shahzaib_fardeen/" target="blank" title="Instagram">
 	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
