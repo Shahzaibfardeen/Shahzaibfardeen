@@ -7,7 +7,7 @@
 <h4 align="center"> Web Developer @ SyberStar. Founder & CEO of ELDO. I Can Also Design & Develope Mobile & Web Games. </h4> 
  
 <!-- Next Words Slides -->
-<p align="center" width="50px">
+<p align="center" width="70px">
   <a href="https://github.com/Shahzaibfardeen/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+and+CEO+at+ELDO;Web+Developer+@+Syberstar;Developer+@+IQVIA"></a>
 </p>
 
