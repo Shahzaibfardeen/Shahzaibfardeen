@@ -126,7 +126,7 @@
 <a href="https://www.instagram.com/shahzaib_fardeen/" target="blank" title="Instagram">
 	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
-<a href="https://twitter.com/pritamkr_" target="blank" title="Twitter">
+<a href="https://twitter.com/shahzaibfardeen" target="blank" title="Twitter">
 	<img align="left" alt="Twitter" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <a href="https://dev.to/@pritamkr_63" target="blank" title="Dev">
