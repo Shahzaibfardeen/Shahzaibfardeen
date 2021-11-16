@@ -62,14 +62,16 @@
 
 
 **Here Are Some Of The Ideas To Get You Started :** 
-- 🔭 I’m Currently Working On `100 Days Of Code.` <br>
+- 🔭 I’m Currently Working On `[100 Days Of Code.]`(https://github.com/Shahzaibfardeen/100_Days_Of_Code) <br>
 - 🌱 I’m Currently Learning `Python.` <br>
+- 💻 ELDO Website : [EnLift_Development_Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)
+- 👨‍💻 New Portfolio : [Single_Landing_Page](https://shahzaibfardeen.github.io/My_Site_Portfolio/) 
 - 👯 I’m Looking to Collaborate On `Any Organization OR Open Source Projects.` <br>
 - 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Organization. <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
-- 📫 How To Reach Me: Mail Me : @ S4shahzaib73@gmail.com <br>
+- 📄 Know about my experiences :
+- 📫 How To Reach Me: **S4shahzaib73@gmail.com** <br>
 <br>
-
 
 <!-- ## 📘 Ours Top Open Source Projects
 <table align="center">
@@ -135,6 +137,15 @@
   <img align="left" alt="Buy Me A Coffee" height="23" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
 </a>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/@pritamkr_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@pritamkr_63" height="30" width="40" /></a>
+<a href="https://twitter.com/pritamkr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritamkr_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pritam-kumar-0ab3431bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-0ab3431bb" height="30" width="40" /></a>
+<a href="https://instagram.com/pritam_kr30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pritam_kr30" height="30" width="40" /></a>
+<a href="https://medium.com/@pritamvr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pritamvr9" height="30" width="40" /></a>
+<a href="/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="#" height="30" width="40" /></a>
+</p>
 
 <!-- Old Languages Tools Bar Big Size -->
 ### 👨‍💻 Languages And Tools :
