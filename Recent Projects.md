@@ -1,4 +1,4 @@
-<h1> My Projects </h1>
+<h1> My Web Projects </h1>
 <!-- Starts -->
 
 * **[100_Days_Of_Code](https://github.com/Shahzaibfardeen/100_Days_Of_Code)** - 11-11-2021
