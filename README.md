@@ -101,7 +101,6 @@
 	<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </p>
 
-<h3 align="left"></h3>
 <!-- Social Sites & Connecting -->
 ### Connect With Me On - 
 <!--
@@ -128,8 +127,7 @@
 <a href="https://facebook.com/obrienser/" title="Facebook">
 	<img align="left" alt="Facebook" height="22px" src="https://user-images.githubusercontent.com/50111192/124475263-2df2d580-ddaa-11eb-8c77-fe58223f5360.png" />
 </a>
-<a href="https://instagram.com/pritam_kr30" target="blank" title="Instagram">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pritam_kr30" height="22px" width="40" />
+<a href="https://instagram.com/pritam_kr30" target="blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pritam_kr30" height="22px" width="40" />
 </a>
 <a href="https://stackoverflow.com/story/obrienser" title="Stack Overflow">
   <img align="left" alt="Stack Overflow" height="22px" src="https://user-images.githubusercontent.com/50111192/127644335-477f90a7-8de3-48a9-8851-60b9d6ae39ea.png" />
@@ -139,9 +137,7 @@
 </a>
 <br/>
 
-
-<p align="left">
-<a href="https://dev.to/@pritamkr_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@pritamkr_63" height="25" width="40" /></a>
+<a href="https://dev.to/@pritamkr_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@pritamkr_63" height="30" width="40" /></a>
 <a href="https://twitter.com/pritamkr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritamkr_" height="25" width="40" /></a>
 <a href="https://linkedin.com/in/pritam-kumar-0ab3431bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-0ab3431bb" height="25" width="40" /></a>
 
