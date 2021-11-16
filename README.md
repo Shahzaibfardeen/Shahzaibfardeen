@@ -123,7 +123,7 @@
 
 <!-- <a href="https://linkedin.com/in/pritam-kumar-0ab3431bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-0ab3431bb" height="25" width="40" /></a> -->
 
-<a href="https://instagram.com/pritam_kr30" target="blank" title="Instagram">
+<a href="https://www.instagram.com/shahzaib_fardeen/" target="blank" title="Instagram">
 	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://twitter.com/pritamkr_" target="blank" title="Twitter">
@@ -138,13 +138,22 @@
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank" title="HackerRank">
 	<img align="left" alt="Hacker Rank" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
 </a>
+
+<a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank" title="HackerRank">
+	<img align="left" alt="Hacker Rank" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" />
+</a>
+
+<a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank" title="HackerRank">
+	<img align="left" alt="Hacker Rank" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" />
+</a>
+
 <a href="https://www.linkedin.com/in/shahzaib-fardeen/" title="LinkedIN">
 	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/story/obrienser" title="Stack Overflow">
   <img align="left" alt="Stack Overflow" height="25px" src="https://user-images.githubusercontent.com/50111192/127644335-477f90a7-8de3-48a9-8851-60b9d6ae39ea.png" />
 </a>
-<a href="https://facebook.com/obrienser/" title="Facebook">
+<a href="https://www.facebook.com/shahzaib.fardeen/" title="Facebook">
 	<img align="left" alt="Facebook" height="25px" src="https://user-images.githubusercontent.com/50111192/124475263-2df2d580-ddaa-11eb-8c77-fe58223f5360.png" />
 </a>
 <a href="https://www.buymeacoffee.com/obrienser" title="Buy Me A Coffee">
