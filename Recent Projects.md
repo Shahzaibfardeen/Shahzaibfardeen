@@ -1,7 +1,7 @@
 <h1> My Web Projects </h1>
 <!-- Starts -->
 
-* **[Weather_App(https://shahzaibfardeen.github.io/Weather_App/)** - 17-11-2021
+* **[Weather_App](https://shahzaibfardeen.github.io/Weather_App/)** - 17-11-2021
     <br> Search any City's weather condition along with Degrees, Celsius, Humidity & Temperature.
 
 * **[100_Days_Of_Code](https://github.com/Shahzaibfardeen/100_Days_Of_Code)** - 11-11-2021
