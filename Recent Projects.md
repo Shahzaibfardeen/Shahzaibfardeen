@@ -1,6 +1,9 @@
 <h1> My Web Projects </h1>
 <!-- Starts -->
 
+* **[Note_App](https://shahzaibfardeen.github.io/Note_Web_App/)** - 18-11-2021
+    <br> Note App - Free your mind by Joting down !!
+
 * **[Weather_App](https://shahzaibfardeen.github.io/Weather_App/)** - 17-11-2021
     <br> Search any City's weather condition along with Degrees, Celsius, Humidity & Temperature.
 
