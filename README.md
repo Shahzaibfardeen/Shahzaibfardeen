@@ -65,7 +65,7 @@
 
 
 **Here Are Some Of The Ideas To Get You Started :** 
-- 🔭 I’m Currently Working On [100 Days Of Code.](https://github.com/Shahzaibfardeen/100_Days_Of_Code) <br>
+- 🔭 I’m Currently Working On - [100 Days Of Code.](https://github.com/Shahzaibfardeen/100_Days_Of_Code) <br>
 - 🌱 I’m Currently Learning `Python & Linux.` <br>
 - 💻 ELDO : [EnLift_Development_Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)
 - 👨‍💻 My Portfolio : [Single_Landing_Page](https://shahzaibfardeen.github.io/My_Site_Portfolio/) 
@@ -73,7 +73,7 @@
 - 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Team. <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
 - 📄 Know about my complete Projects : [My_Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Recent%20Projects.md)
-- 📫 How To Reach Me: **S4shahzaib73@gmail.com** <br>
+- 📫 How To Reach Me : **S4shahzaib73@gmail.com** <br>
 <br>
 
 <!-- ## 📘 Ours Top Open Source Projects
