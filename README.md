@@ -344,8 +344,9 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 <!-- Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shahzaibfardeen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?
-username=shahzaibfardeen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- Activity Graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shahzaib's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=shahzaibfardeen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 <!-- Additionals Techs
