@@ -1,6 +1,10 @@
 <h1> My Web Projects </h1>
 <!-- Starts -->
 
+
+* **[Pricing_Page](https://shahzaibfardeen.github.io/Pricing_Page/index.html)** - 25-11-2021
+    <br> Pricing Page - Transparent Pricing Page to help you to make the right choice.
+
 * **[Note_App](https://shahzaibfardeen.github.io/Note_Web_App/)** - 18-11-2021
     <br> Note App - Free your mind by Joting down !!
 
