@@ -315,15 +315,12 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 ## 📊 Github Statistics
 <br/>	
 
+<!--&theme=buefy&bg_color=0D1117"/></a> -->
 <a href="https://github.com/shahzaibfardeen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact&theme=react&hide_border=false" /></a>
-<br />
-<!--&theme=buefy&bg_color=0D1117" /></a> -->
+<br /> 
 
-
-<a href="https://github.com/shahzaibfardeen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shahzaib's Github Stats" /></a>
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a> -->
-
+<!-- &theme=react&bg_color=0D1117"/>-->
+<a href="https://github.com/shahzaibfardeen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Shahzaib's Github Stats" /></a>
  
 <!-- Top Languages White Color 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
