@@ -319,8 +319,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibfardeen&layout=compact&theme=react&hide_border=false" /></a>
 <br /> 
 
-<!-- &theme=react&bg_color=0D1117"/>-->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Shahzaib's Github Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="Shahzaib's Github Stats" /></a>
 
 
 <details>
