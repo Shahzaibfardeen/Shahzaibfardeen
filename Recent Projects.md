@@ -1,11 +1,8 @@
 <h1> My Web Projects </h1>
 <!-- Starts -->
-
-
-<a href="https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Recent%20Projects.md" class="link link-color" target="_blank" > My Web Projects </a> - Have a look </li>
   
-* **[Car_Avoidance_Game] <a href="https://shahzaibfardeen.github.io/Car_Avoidance_Game/index.html" target="_blank")** </a> - 04-12-2021
-    <br> Car Avoidance Game - My Childhood Game Build with Love.
+* **[Car_Avoidance_Game] <a href="https://shahzaibfardeen.github.io/Car_Avoidance_Game/index.html" target="_blank")** - 04-12-2021
+    <br> Car Avoidance Game - My Childhood Game Build with Love. </a>
 
 * **[Car_Avoidance_Game](https://shahzaibfardeen.github.io/Car_Avoidance_Game/index.html)** - 04-12-2021
     <br> Car Avoidance Game - My Childhood Game Build with Love.
