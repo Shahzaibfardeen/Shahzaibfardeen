@@ -1,6 +1,11 @@
 <h1> My Web Projects </h1>
 <!-- Starts -->
 
+* **[Car_Avoidance_Game](https://shahzaibfardeen.github.io/Car_Avoidance_Game/index.html target="blank")** - 04-12-2021
+    <br> Car Avoidance Game - My Childhood Game Build with Love.
+
+* **[Car_Avoidance_Game](https://shahzaibfardeen.github.io/Car_Avoidance_Game/index.html)** - 04-12-2021
+    <br> Car Avoidance Game - My Childhood Game Build with Love.
 
 * **[Pricing_Page](https://shahzaibfardeen.github.io/Pricing_Page/index.html)** - 25-11-2021
     <br> Pricing Page - Transparent Pricing Page to help you to make the right choice.
