@@ -252,7 +252,7 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
 [Single Page Restaurant Web App](https://shahzaibfardeen.github.io/Chinese-Single_Landing_Webpage/index.html) - 10-03-2021
 
-
+[Application_Landing_Page](https://shahzaibfardeen.github.io/Syberstar-Application/) - 27-01-2021
 <br> <br>
 
 More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Recent%20Projects.md)
