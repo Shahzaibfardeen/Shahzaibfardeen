@@ -69,6 +69,7 @@
 - 🌱 I’m Currently Learning `Python & Linux.` <br>
 - 💻 ELDO : [EnLift_Development_Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)
 - 👨‍💻 My Portfolio : [Single_Landing_Page](https://shahzaibfardeen.github.io/My_Site_Portfolio/) 
+- 📱 My Profile Card : [Profile_Card](https://shahzaibfardeen.github.io/My_Profile_Card/) 
 - 👯 I’m Looking to Collaborate On `Open Source Projects.` <br>
 - 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Team. <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
@@ -235,7 +236,13 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 ### Recent Projects
 <!-- Starts -->
 	
-[The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 23-09-2021
+[The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 14-12-2021
+
+[Profile_Card](https://shahzaibfardeen.github.io/My_Profile_Card/) - 14-12-2021
+
+[Note_Web_App](https://shahzaibfardeen.github.io/Note_Web_App/) - 18-11-2021
+
+[Weather_Web_App](https://shahzaibfardeen.github.io/Weather_App/) - 17-11-2021
 
 [Ristorante_Con_Fusion - Restaurant App](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/) - 28-04-2021
 
@@ -244,12 +251,6 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 [Tic Tac Toe - Game](https://shahzaibfardeen.github.io/Tic_Tac_Toe/) - 12-03-2021
 
 [Single Page Restaurant Web App](https://shahzaibfardeen.github.io/Chinese-Single_Landing_Webpage/index.html) - 10-03-2021
-
-[New Application - Single Landing Page](https://shahzaibfardeen.github.io/Syberstar-Application/) - 27-01-2021
-
-[Animated User Login Form](https://shahzaibfardeen.github.io/Login-Form/) - 01-12-2020
-
-[My Site - Portfolio](https://shahzaibfardeen.github.io/My_Site_Portfolio/) - 19-09-2020
 
 <br>
 
