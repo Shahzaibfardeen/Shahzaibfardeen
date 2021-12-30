@@ -343,6 +343,9 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 <!-- Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shahzaib's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=shahzaibfardeen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- Additionals Techs
 ### Flexible With -
