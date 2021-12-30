@@ -341,6 +341,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 </details>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- Activity Graph -->
+
 [![Shahzaib's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahzaibfardeen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Additionals Techs
