@@ -213,7 +213,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 
 <!-- New Table With Multiple Slides -->
-## My Repositories at Glance
+<!-- ## My Repositories at Glance
 <table>
   <tr>
     <th>Machine Learning</th>
@@ -259,7 +259,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
   <tr>
 </table>
 </div>
-<div align="center">
+<div align="center"> -->
 <!-- End Of The Table -->
 
 
