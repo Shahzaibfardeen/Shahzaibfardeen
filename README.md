@@ -277,7 +277,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
-<!--START_SECTION:activity-->
+<!-- START_SECTION : Activity -->
 
 1. ❗️  Opened Issue [#001](https://github.com/Syber-Lab/Sybrenium/issues?q=label%3A%22good+first+issue%22+is%3Aissue+is%3Aopen) in [Syber-Lab/Sybrenium](https://github.com/Syber-Lab)
 2. 🎉 Merged PR [#97]
@@ -286,77 +286,13 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 5. 🗣 Commented on [#96]
 
 <!-- END SECTION :Activity -->
-
 </details>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- Activity Graph -->
 
 [![Shahzaib's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahzaibfardeen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Additionals Techs -->
-### Flexible With -
-[<img src="https://img.shields.io/badge/-Linux-000000?style=social&logo=linux" />](#)
-[<img src="https://img.shields.io/badge/-Windows-000000?style=social&logo=windows" />](#) 
-[<img src="https://img.shields.io/badge/-Macintosh-000000?style=social&logo=apple" />](#)
-[<img src="https://img.shields.io/badge/-Debian-000000?style=social&logo=debian" />](#) 
-[<img src="https://img.shields.io/badge/-Ubuntu-000000?style=social&logo=ubuntu" />](#)
-[<img src="https://img.shields.io/badge/-Fedora-000000?style=social&logo=fedora" />](#)
-[<img src="https://img.shields.io/badge/-Cent_Os-000000?style=social&logo=centos" />](#)
-[<img src="https://img.shields.io/badge/-Android-000000?style=social&logo=android" />](#)
-[<img src="https://img.shields.io/badge/-Apple_iOS-000000?style=social&logo=iOS" />](#)
-
-
-<!-- Framework & Stacks Bar -->
-### Frameworks & Stack -
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
-![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android)
-![iOS](https://img.shields.io/badge/-iOS-C0C0C0?style=for-the-badge&logo=apple)
-![Flask](https://img.shields.io/badge/-Flask-blue?style=for-the-badge&logo=Flask)
-![BootStrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=javascript)
-![My SQL](https://img.shields.io/badge/-MySQL-pink?style=for-the-badge&logo=mysql)
-
-<!-- Gaming Tabs -->
-### Gaming Engines -
-![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=for-the-badge&logo=unity)
-![Construct 2](https://img.shields.io/badge/-Construct_2-000000?style=for-the-badge&logo=construct)
-![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-orange?style=for-the-badge&logo=unrealengine)
-![GodotEngine](https://img.shields.io/badge/-Godot_Engine-000000?style=for-the-badge&logo=godotengine) -->
-
-<!-- All Programming Languages -->
-### Languages -
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript)
-![PHP](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
-![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery)
-![MySql](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&logo=MySql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
-![Python](https://img.shields.io/badge/-Python-F7F7F7?style=for-the-badge&logo=Python)
-![Dart](https://img.shields.io/badge/-Dart-152030?style=for-the-badge&logo=Dart)
-![Java](https://img.shields.io/badge/-java-F09522?style=for-the-badge&logo=java)
-![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS 3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![C](https://img.shields.io/badge/-C-3D46C6?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript) 
-
-<!-- Tools & Techs -->
-### Tools -
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-2684FF?style=for-the-badge&logo=bitbucket)
-![Firebase](https://img.shields.io/badge/-Firebase-181717?style=for-the-badge&logo=firebase)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-blue?style=for-the-badge&logo=Vercel)
-![Eclipse](https://img.shields.io/badge/-Eclipse-430098?style=for-the-badge&logo=Eclipse)
-![Android](https://img.shields.io/badge/-AndroidStudio-green?style=for-the-badge&logo=Android)
-![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
-
-
 <!-- ##GitHub Profile Trophy -->
 <p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
- </p>
+ </p> -->
