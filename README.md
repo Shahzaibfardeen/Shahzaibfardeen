@@ -53,7 +53,7 @@
 - 📫 How To Reach Me : **S4shahzaib73@gmail.com** <br>
 <br>
 
-## 📘 Ours Top Open Source Projects
+<!-- ## 📘 My Top Open Source Projects
 <table align="center">
   <thead align="center">
     <tr border: none;>
@@ -74,7 +74,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <!-- Find Me On The Web -->
 <p align="center">
@@ -84,7 +84,6 @@
 
 <!-- Social Sites & Connecting -->
 ### Connect With Me On - 
-<!--
 [<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:s4shahzaib73@gmail.com) 
 [<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/shahzaib-fardeen/) 
 [<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />]() 
@@ -99,10 +98,9 @@
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />]()
 [<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />]() 
 [<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />]()
--->
 <br/>
 
-<!-- <a href="https://linkedin.com/in/pritam-kumar-0ab3431bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-0ab3431bb" height="25" width="40" /></a> -->
+<a href="https://linkedin.com/in/pritam-kumar-0ab3431bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-0ab3431bb" height="25" width="40" /></a>
 
 <a href="https://www.instagram.com/shahzaib_fardeen/" target="blank" title="Instagram">
 	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
