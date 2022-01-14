@@ -23,19 +23,18 @@
 <!-- Github Streaks Stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
 
+<!-- Github Streaks Stats - Black & Orange Combo
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<br> -->
 
-<!-- My Skylin e Ratio -->
+<!-- My Skylin e Ratio
 <div align="center"><table>
   <tr><th><a href="https://skyline.github.com/arshdeepsahni/2020"><img width="1000px" src="https://user-images.githubusercontent.com/56549294/109688463-4b205900-7baa-11eb-9a16-e8df056b2e14.gif"></a></th></tr>
-</table></div>
-
-<!-- Github Streaks Stats - Black & Orange Combo -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-<br>
+</table></div> -->
 
 <!-- Main Content Of The Page -->
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
@@ -54,7 +53,7 @@
 - 📫 How To Reach Me : **S4shahzaib73@gmail.com** <br>
 <br>
 
-<!-- ## 📘 Ours Top Open Source Projects
+## 📘 Ours Top Open Source Projects
 <table align="center">
   <thead align="center">
     <tr border: none;>
@@ -75,8 +74,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table> -->
-
+</table>
 
 <!-- Find Me On The Web -->
 <p align="center">
