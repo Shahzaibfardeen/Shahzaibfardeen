@@ -145,7 +145,6 @@
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank" title="HackerRank">
 	<img align="left" alt="Hacker Rank" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
 </a>
-
 <a href="https://www.linkedin.com/in/shahzaib-fardeen/" title="LinkedIN">
 	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
