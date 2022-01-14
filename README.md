@@ -84,23 +84,6 @@
 
 <!-- Social Sites & Connecting -->
 ### Connect With Me On - 
-[<img src="https://img.shields.io/badge/-Gmail-000000?style=social&logo=gmail" />](mailto:s4shahzaib73@gmail.com) 
-[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/shahzaib-fardeen/) 
-[<img src="https://img.shields.io/badge/-YouTube-000000?style=social&logo=youtube" />]() 
-[<img src="https://img.shields.io/badge/-Pinterest-000000?style=social&logo=pinterest" />]() 
-[<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />]()
-[<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />]()
-[<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />]()
-
-[<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/shahzaib_fardeen/)
-[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/ShahzaibFardeen) 
-[<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />]()
-[<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />]()
-[<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />]() 
-[<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />]()
-<br/>
-
-<a href="https://linkedin.com/in/pritam-kumar-0ab3431bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-0ab3431bb" height="25" width="40" /></a>
 
 <a href="https://www.instagram.com/shahzaib_fardeen/" target="blank" title="Instagram">
 	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
@@ -130,11 +113,9 @@
 <a href="https://www.buymeacoffee.com/obrienser" title="Buy Me A Coffee">
   <img align="left" alt="Buy Me A Coffee" height="23" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
 </a>
-</p>
-<br/>
-<br/>
+</p> <br/> <br/>
 
-<!-- Old Languages Tools Bar Big Size -->
+<!-- Languages & Tools -->
 ### 👨‍💻 Languages And Tools :
 <br/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -155,9 +136,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
-<br/>
-<br/>
-<br/>
+<br/> <br/> <br/>
 
 <!-- Details / Blog / Recent Table-->
 <br>
@@ -165,12 +144,11 @@
 Currently Working On [Sybrenium](https://github.com/Syber-Lab) &  [Syber-Lab](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow Me On Twitter](https://twitter.com/shahzaibfardeen).
 <table><tr><td valign="top" width="33%">
 
-
 ### Recent Releases Framework
 <!-- recent_releases starts -->
-
+	
 [For Online CDN - Click This](https://github.com/Syber-Lab/Sybrenium)
-
+	
 <br> <br>
 
 [Border Classes](https://github.com/Syber-Lab/Sybrenium) - 07-03-2021
@@ -192,7 +170,6 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 ### On My Blog
 <!-- Blog Starts -->
 
-
 [Robert Wade](https://medium.com/@robewawebdesign/how-100-days-of-code-changed-my-life-37cdc891db73) - 25-08-2018
 
 [My_Deen_Dairy](https://github.com/Shahzaibfardeen/My_Deen_Dairy) - 04-05-2021
@@ -204,6 +181,7 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
 <!-- Blog Ends -->
 </td><td valign="top" width="33%">
+
 
 ### Recent Projects
 <!-- Starts -->
