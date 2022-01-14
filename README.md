@@ -292,7 +292,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 [![Shahzaib's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahzaibfardeen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- ##GitHub Profile Trophy -->
+<!-- ##GitHub Profile Trophy
 <p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
- </p>
+ </p> -->
