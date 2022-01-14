@@ -6,12 +6,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Full+Stack+Web+%26+App+Developer.;EDC+Programmer+%40+IQVIA.;Web+Developer+%40+Syberstar.;Founder+%26+CEO+of+ELDO.;Linux+Administrator."></a>
 </p>
 
-<!-- Next Words Slides -->
-<p align="center" width="70px">
-  <a href="https://github.com/Shahzaibfardeen/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+and+CEO+at+ELDO;Web+Developer+@+Syberstar;Developer+@+IQVIA"></a>
-</p>
-
-
 <!-- Brief Text About Myself -->
 <h4 align="center"> Medi Data - Rave Developer @ IQVIA | I'm An Full Stack Web & Application Developer | </h4>
 <h4 align="center"> Web Developer @ SyberStar. Founder & CEO of ELDO. I Can Also Design & Develope Mobile & Web Games. </h4> 
@@ -26,17 +20,6 @@
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahzaibfardeen" alt="Shahzaib Fardeen" /> </p>
 
-
-<!-- Center Social Icons Follow Tabs -->
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
-  <a href="https://twitter.com/DenverCoder1"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
-</p>
-
-
 <!-- Github Streaks Stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -45,20 +28,17 @@
 </p>
 
 
-<!-- My Skyline Ratio 
+<!-- My Skylin e Ratio -->
 <div align="center"><table>
   <tr><th><a href="https://skyline.github.com/arshdeepsahni/2020"><img width="1000px" src="https://user-images.githubusercontent.com/56549294/109688463-4b205900-7baa-11eb-9a16-e8df056b2e14.gif"></a></th></tr>
-</table></div> -->
+</table></div>
 
-
-<!-- Github Streaks Stats - Black & Orange Combo 
+<!-- Github Streaks Stats - Black & Orange Combo -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-<br> -->
-
+<br>
 
 <!-- Main Content Of The Page -->
 ### <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23"> Hi Developers <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
-
 
 **Here Are Some Of The Ideas To Get You Started :** 
 - 🔭 I’m Currently Working On - [100 Days Of Code.](https://github.com/Shahzaibfardeen/100_Days_Of_Code) <br>
