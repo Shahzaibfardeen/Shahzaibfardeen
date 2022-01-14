@@ -31,7 +31,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibfardeen&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br> -->
 
-<!-- My Skylin e Ratio
+<!-- My Skyline Ratio
 <div align="center"><table>
   <tr><th><a href="https://skyline.github.com/arshdeepsahni/2020"><img width="1000px" src="https://user-images.githubusercontent.com/56549294/109688463-4b205900-7baa-11eb-9a16-e8df056b2e14.gif"></a></th></tr>
 </table></div> -->
@@ -213,7 +213,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 
 <!-- New Table With Multiple Slides -->
-<!--## My Repositories at Glance
+## My Repositories at Glance
 <table>
   <tr>
     <th>Machine Learning</th>
@@ -259,7 +259,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
   <tr>
 </table>
 </div>
-<div align="center">-->
+<div align="center">
 <!-- End Of The Table -->
 
 
@@ -272,7 +272,6 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 <br /> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibfardeen&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="Shahzaib's Github Stats" /></a>
-
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
