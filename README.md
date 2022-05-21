@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Full+Stack+Web+%26+App+Developer.;EDC+Programmer+%40+IQVIA.;Web+Developer+%40+Syberstar.;Founder+%26+CEO+of+ELDO.;Linux+Administrator."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Full+Stack+Web+%26+App+Developer.;Assoc+EDC+Programmer+%40+IQVIA.;Web+Developer+%40+Syberstar.;Founder+%26+CEO+of+ELDO.;Linux+Administrator."></a>
 </p>
 
 <!-- Brief Text About Myself -->
@@ -142,7 +142,7 @@
 <!-- Details / Blog / Recent Table-->
 <br>
 
-Currently Working On [Sybrenium](https://github.com/Syber-Lab) &  [Syber-Lab](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow Me On Twitter](https://twitter.com/shahzaibfardeen).
+Currently Working On [Sybrenium]([https://github.com/Syber-Lab](https://github.com/Syber-Lab/Sybrenium)) &  [Syber-Lab](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow Me On Twitter](https://twitter.com/shahzaibfardeen).
 <table><tr><td valign="top" width="33%">
 
 ### Recent Releases Framework
