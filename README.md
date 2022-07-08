@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Full+Stack+Web+%26+App+Developer.;Assoc+EDC+Programmer+%40+IQVIA.;Web+Developer+%40+Syberstar.;Founder+%26+CEO+of+ELDO.;Linux+Administrator."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Full+Stack+Web+%26+App+Developer.;Assoc+EDC+Programmer+%40+IQVIA.;Web+Developer+%40+Syberstar.;Founder+%26+CEO+of+ELDO.;Community+Builder."></a>
 </p>
 
 <!-- Brief Text About Myself -->
@@ -98,7 +98,7 @@
 </a>
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank" title="HackerRank">
 	<img align="left" alt="Hacker Rank" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
-</a>
+</a> <br /> <br />
 
 <a href="https://www.linkedin.com/in/shahzaib-fardeen/" title="LinkedIN">
 	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -109,7 +109,7 @@
 <a href="https://www.facebook.com/shahzaib.fardeen/" title="Facebook">
 	<img align="left" alt="Facebook" height="25px" src="https://user-images.githubusercontent.com/50111192/124475263-2df2d580-ddaa-11eb-8c77-fe58223f5360.png" />
 </a>
-<a href="https://www.buymeacoffee.com/obrienser" title="Buy Me A Coffee">
+<a href="" title="Buy Me A Coffee">
   <img align="left" alt="Buy Me A Coffee" height="23" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
 </a>
 </p> <br/> <br/>
@@ -117,7 +117,7 @@
 <!-- Languages & Tools -->
 ### 👨‍💻 Languages And Tools :
 <br/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -287,6 +287,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 <!-- END SECTION :Activity -->
 </details>
+
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- Activity Graph -->
 
@@ -296,4 +297,3 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 <p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahzaibfardeen)](https://github.com/ryo-ma/github-profile-trophy)
  </p> -->
-
