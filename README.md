@@ -84,8 +84,6 @@
 <!-- Social Sites & Connecting -->
 ### Connect With Me On - 
 
-<div align="center">
-
 <a href="https://www.instagram.com/shahzaib_fardeen/" target="blank" title="Instagram">
 	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
@@ -101,7 +99,6 @@
 <a href="https://www.hackerrank.com/justnikhil?hr_r=1" target="blank" title="HackerRank">
 	<img align="left" alt="Hacker Rank" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
 </a> <br /> <br />
-
 <a href="https://www.linkedin.com/in/shahzaib-fardeen/" title="LinkedIN">
 	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -116,7 +113,7 @@
 </a>
 
 </p>
-</div> <br/>
+<br/>
 
 <!-- Languages & Tools -->
 ### 👨‍💻 Languages And Tools :
@@ -128,18 +125,15 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
 <img align="left" alt="BootStrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="25px" height="25px"/>
-
-<!-- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> -->
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
-
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
-
-<br/> <br>
+<br>
 
 <!-- Details / Blog / Recent Table-->
 <br>
@@ -147,70 +141,65 @@
 Currently Working On [All About Programming](https://github.com/All-About-Programming-Community/All_About_Programming-Community_Website) &  [Syber-Lab](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow Me On Twitter](https://twitter.com/shahzaibfardeen).
 <table><tr><td valign="top" width="33%">
 
+	
 ### Recent Releases Framework
-<!-- recent_releases starts -->
+<!-- Recent Release Starts -->
 	
-[For Online CDN - Click This](https://github.com/Syber-Lab/Sybrenium)
-	
+	[For Online CDN - Click This](https://github.com/Syber-Lab/Sybrenium)
 <br> <br>
+	[Border Classes](https://github.com/Syber-Lab/Sybrenium) - 07-03-2021
+	
+	[Line Break Classes & Color Classes](https://github.com/Syber-Lab/Sybrenium) - 20-03-2021
 
-[Border Classes](https://github.com/Syber-Lab/Sybrenium) - 07-03-2021
-
-[Line Break Classes & Color Classes](https://github.com/Syber-Lab/Sybrenium) - 20-03-2021
-
-[Font Style Classes & Cards](https://github.com/Syber-Lab/Sybrenium) - 10-04-2021
-
+	[Font Style Classes & Cards](https://github.com/Syber-Lab/Sybrenium) - 10-04-2021
 <br> <br> <br> <br>
 
-[Preview: ( For Code Click This & View Page Source )](https://yaseen549.github.io/sybrenium-code-review/) - Resent Updates - 29-04-2021
+	[Preview: (For Code Click This & View Page Source)](https://yaseen549.github.io/sybrenium-code-review/) - Resent Updates - 29-04-2021
 
-More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
-
+	More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 <!-- Recent Releases Ends -->
 </td><td valign="top" width="33%">
-
 
 ### On My Blog
 <!-- Blog Starts -->
 
-[Robert Wade](https://medium.com/@robewawebdesign/how-100-days-of-code-changed-my-life-37cdc891db73) - 25-08-2018
+	[Robert Wade](https://medium.com/@robewawebdesign/how-100-days-of-code-changed-my-life-37cdc891db73) - 25-08-2018
 
-[My_Deen_Dairy](https://github.com/Shahzaibfardeen/My_Deen_Dairy) - 04-05-2021
+	[My_Deen_Dairy](https://github.com/Shahzaibfardeen/My_Deen_Dairy) - 04-05-2021
 	
-[The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 23-09-2021
+	[The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 23-09-2021
 	
-[100_Days_Of_Code](https://github.com/Shahzaibfardeen/100_Days_Of_Code) - 10-11-2021
-
+	[100_Days_Of_Code](https://github.com/Shahzaibfardeen/100_Days_Of_Code) - 10-11-2021
 
 <!-- Blog Ends -->
 </td><td valign="top" width="33%">
 
-
 ### Recent Projects
 <!-- Starts -->
 	
-[The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 14-12-2021
+	[The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 14-12-2021
 
-[Profile_Card](https://shahzaibfardeen.github.io/My_Profile_Card/) - 14-12-2021
+	[Profile_Card](https://shahzaibfardeen.github.io/My_Profile_Card/) - 14-12-2021
 
-[Note_Web_App](https://shahzaibfardeen.github.io/Note_Web_App/) - 18-11-2021
+	[Note_Web_App](https://shahzaibfardeen.github.io/Note_Web_App/) - 18-11-2021
 
-[Weather_Web_App](https://shahzaibfardeen.github.io/Weather_App/) - 17-11-2021
+	[Weather_Web_App](https://shahzaibfardeen.github.io/Weather_App/) - 17-11-2021
 
-[Ristorante_Con_Fusion - Restaurant App](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/) - 28-04-2021
+	[Restaurant App](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/) - 28-04-2021
 
-[BirthDay Card](https://shahzaibfardeen.github.io/Hapie_Bday_Sadu/) - 17-04-2021
+	[BirthDay Card](https://shahzaibfardeen.github.io/Hapie_Bday_Sadu/) - 17-04-2021
 
-[Tic Tac Toe - Game](https://shahzaibfardeen.github.io/Tic_Tac_Toe/) - 12-03-2021
+	[Tic Tac Toe](https://shahzaibfardeen.github.io/Tic_Tac_Toe/) - 12-03-2021
 
-[Single Page Restaurant Web App](https://shahzaibfardeen.github.io/Chinese-Single_Landing_Webpage/index.html) - 10-03-2021
+	[Single Page Restaurant App](https://shahzaibfardeen.github.io/Chinese-Single_Landing_Webpage/index.html) - 10-03-2021
 
-[Application_Landing_Page](https://shahzaibfardeen.github.io/Syberstar-Application/) - 27-01-2021
+	[Application_Landing_Page](https://shahzaibfardeen.github.io/Syberstar-Application/) - 27-01-2021
 <br> <br>
 
-More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Recent%20Projects.md)
-
+	More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Recent%20Projects.md)
+	
 <!-- Ends -->
+	</td><td valign="top" width="33%">
 </td></tr></table>
 <!--End Part Of The Table -->
 
