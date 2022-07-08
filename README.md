@@ -46,7 +46,6 @@
 - 👨‍💻 My Portfolio : [Single_Landing_Page](https://shahzaibfardeen.github.io/My_Site_Portfolio/) 
 - 📱 My Profile Card : [Profile_Card](https://shahzaibfardeen.github.io/My_Profile_Card/) 
 - 👯 I’m Looking to Collaborate On `Open Source Projects.` <br>
-- 🤔 I’m Looking For `Beginners / Advanced Developers` To Join In Our Team. <br>
 - 💬 Ask Me About : Anything Related To `D3 - Design, Develop & Deploy.` <br>
 - 📄 Know about My Projects : [My_Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Recent%20Projects.md)
 - 📧 How To Contact Me : [Contact_Form](https://shahzaibfardeen.github.io/Contact_Form/) <br>
@@ -85,6 +84,7 @@
 <!-- Social Sites & Connecting -->
 ### Connect With Me On - 
 
+<div align="center">
 <a href="https://www.instagram.com/shahzaib_fardeen/" target="blank" title="Instagram">
 	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
@@ -113,7 +113,9 @@
 <a href="" title="Buy Me A Coffee">
   <img align="left" alt="Buy Me A Coffee" height="23" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
 </a>
-</p> <br/>
+
+</p>
+</div> <br/>
 
 <!-- Languages & Tools -->
 ### 👨‍💻 Languages And Tools :
@@ -137,7 +139,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
 
-<br/> <br/> <br/>
+<br/> <br/>
 
 <br>
 <!-- Details / Blog / Recent Table-->
@@ -215,11 +217,11 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 
 <!-- New Table With Multiple Slides -->
-## My Repositories at Glance
+<!-- ## My Repositories at Glance
 <table>
   <tr>
-    <th>Machine Learning</th>
-    <th>Computer Vision</th>
+    <th> MERN Stack </th>
+    <th> JavaScript Projects </th>
   </tr>
   <tr>
     <td> 
@@ -260,8 +262,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
     </td>
   <tr>
 </table>
-</div>
-<div align="center">
+</div> -->
 <!-- End Of The Table -->
 
 
