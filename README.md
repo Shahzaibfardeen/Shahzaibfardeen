@@ -53,6 +53,7 @@
 - 📫 How To Reach Me : **S4shahzaib73@gmail.com** <br>
 <br>
 
+<!--
 ## 📘 My Top Open Source Projects
 <table align="center">
   <thead align="center">
@@ -74,7 +75,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <!-- Find Me On The Web -->
 <p align="center">
@@ -122,9 +123,9 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="25px" height="25px"/>
+<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
+<img align="left" alt="BootStrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="25px" height="25px"/>
+
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -135,9 +136,10 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
+
 <br/> <br/> <br/>
 
+<br>
 <!-- Details / Blog / Recent Table-->
 <br>
 
@@ -213,7 +215,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
 
 
 <!-- New Table With Multiple Slides -->
-<!-- ## My Repositories at Glance
+## My Repositories at Glance
 <table>
   <tr>
     <th>Machine Learning</th>
@@ -259,7 +261,7 @@ More [Projects](https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/Rec
   <tr>
 </table>
 </div>
-<div align="center"> -->
+<div align="center">
 <!-- End Of The Table -->
 
 
