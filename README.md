@@ -41,7 +41,7 @@
 
 **Here Are Some Of The Ideas To Get You Started :** 
 - 🔭 I’m Currently Working On - [100 Days Of Code.](https://github.com/Shahzaibfardeen/100_Days_Of_Code) <br>
-- 🌱 I’m Currently Learning `Python & Linux.` <br>
+- 🌱 I’m Currently Learning `React & Python` <br>
 - 💻 ELDO : [EnLift_Development_Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)
 - 👨‍💻 My Portfolio : [Single_Landing_Page](https://shahzaibfardeen.github.io/My_Site_Portfolio/) 
 - 📱 My Profile Card : [Profile_Card](https://shahzaibfardeen.github.io/My_Profile_Card/) 
@@ -53,7 +53,7 @@
 - 📫 How To Reach Me : **S4shahzaib73@gmail.com** <br>
 <br>
 
-<!-- ## 📘 My Top Open Source Projects
+## 📘 My Top Open Source Projects
 <table align="center">
   <thead align="center">
     <tr border: none;>
@@ -64,17 +64,17 @@
   </thead>
   <tbody>    
     <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
+      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <b> AAP - Community Website </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
+      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"> <b> 30 Days of Code </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
 <!-- Find Me On The Web -->
 <p align="center">
@@ -112,11 +112,11 @@
 <a href="" title="Buy Me A Coffee">
   <img align="left" alt="Buy Me A Coffee" height="23" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
 </a>
-</p> <br/> <br/>
+</p> <br/>
 
 <!-- Languages & Tools -->
 ### 👨‍💻 Languages And Tools :
-<br/>
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -141,7 +141,7 @@
 <!-- Details / Blog / Recent Table-->
 <br>
 
-Currently Working On [Sybrenium]([https://github.com/Syber-Lab](https://github.com/Syber-Lab/Sybrenium)) &  [Syber-Lab](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow Me On Twitter](https://twitter.com/shahzaibfardeen).
+Currently Working On [All About Programming](https://github.com/All-About-Programming-Community/All_About_Programming-Community_Website) &  [Syber-Lab](https://github.com/Syber-Lab) and Associated Projects. Read [My Blogs](https://www.linkedin.com/in/shahzaib-fardeen/) Or [follow Me On Twitter](https://twitter.com/shahzaibfardeen).
 <table><tr><td valign="top" width="33%">
 
 ### Recent Releases Framework
