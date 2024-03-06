@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Full+Stack+Web+%26+App+Developer.;Assoc+EDC+Programmer+%40+IQVIA.;Web+Developer+%40+Syberstar.;Founder+%26+CEO+of+ELDO.;Community+Builder."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Full+Stack+Web+%26+App+Developer.;CDP1+Programmer+%40+Parexel.;Web+Developer+%40+Syberstar.;Founder+%26+CEO+of+ELDO.;Community+Builder."></a>
 </p>
 
 <!-- Brief Text About Myself -->
@@ -41,7 +41,7 @@
 
 **Here Are Some Of The Ideas To Get You Started :** 
 - 🔭 I’m Currently Working On - [100 Days Of Code.](https://github.com/Shahzaibfardeen/100_Days_Of_Code) <br>
-- 🌱 I’m Currently Learning `React & Python` <br>
+- 🌱 I’m Currently Learning `MERN Stack` <br>
 - 💻 ELDO : [EnLift_Development_Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)
 - 👨‍💻 My Portfolio : [Single_Landing_Page](https://shahzaibfardeen.github.io/My_Site_Portfolio/) 
 - 📱 My Profile Card : [Profile_Card](https://shahzaibfardeen.github.io/My_Profile_Card/) 
@@ -176,22 +176,22 @@ More [Recent Releases](https://github.com/Syber-Lab/Sybrenium)
 
 ### Recent Projects
 <!-- Starts -->
-	
+
+[Anishwara_Enterprises](https://anishwaraenterprises.in/) - 08-12-2024
+
+[Apex_TranScribe](https://apextranscribe.com/) - 08-11-2024
+
 [The_Voice_Foundation](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html) - 14-12-2021
 
 [Profile_Card](https://shahzaibfardeen.github.io/My_Profile_Card/) - 14-12-2021
 
 [Note_Web_App](https://shahzaibfardeen.github.io/Note_Web_App/) - 18-11-2021
 
-[Weather_Web_App](https://shahzaibfardeen.github.io/Weather_App/) - 17-11-2021
-
 [Restaurant App](https://shahzaibfardeen.github.io/Ristorante_Con_Fusion/) - 28-04-2021
 
 [BirthDay Card](https://shahzaibfardeen.github.io/Hapie_Bday_Sadu/) - 17-04-2021
 
 [Tic Tac Toe](https://shahzaibfardeen.github.io/Tic_Tac_Toe/) - 12-03-2021
-
-[Single Page Restaurant App](https://shahzaibfardeen.github.io/Chinese-Single_Landing_Webpage/index.html) - 10-03-2021
 
 [Application_Landing_Page](https://shahzaibfardeen.github.io/Syberstar-Application/) - 27-01-2021
 <br> <br>
